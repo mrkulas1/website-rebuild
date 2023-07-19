@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HFHMR</title>
-</head>
-<link href="style.css" rel="stylesheet">
-<body>
     <div class="navbar">
       <a href="index.html">Home</a>
         <div class="dropdown">
@@ -14,9 +5,6 @@
               <i class="fa fa-caret-down"></i>
               <a href="about.html">About Us</a>
             </button>
-            <!--<a href="#about">About Us
-              <i class="fa fa-caret-down"></i>
-            </a>-->
             <div class="dropdown-content">
               <a href="where_we_build.html">Where We Build</a>
               <a href="current_builds.html">Current Builds</a>
