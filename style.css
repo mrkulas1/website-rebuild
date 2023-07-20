@@ -1,6 +1,9 @@
+/* Allowable colors: #888B8D, #fff, #00AFD7, #C4D600, #000*/
+
 .navbar {
     overflow: hidden;
-    background-color: #888B8D;
+    background-color: #00AFD7;
+    
   }
   
   .navbar a {
@@ -62,7 +65,7 @@
   .header {
     padding: 30px;
     text-align: left;
-    background: #00AFD7;
+    background: #fff;
     color: #C4D600;
     font-size: 30px;
   }
