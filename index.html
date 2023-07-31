@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <body>
-    <div class="header">
+    <div class="header" id="myHeader">
     <div class="banner">
       <div class="flex-child">
           <a href="index.html">
@@ -114,6 +114,20 @@
     <main>
       <p>This will be the body of the content</p>
     </main>
+    <script>
+      window.onscroll = function() {stickyHeader()};
+      
+      var header = document.getElementById("myHeader");
+      var sticky = header.offsetTop;
+      
+      function stickyHeader() {
+        if (window.pageYOffset > sticky) {
+          header.classList.add("sticky");
+        } else {
+          header.classList.remove("sticky");
+        }
+      }
+      </script>
   </body>
 
 </html>
