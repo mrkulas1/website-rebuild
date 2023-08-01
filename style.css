@@ -176,3 +176,24 @@
 .sticky + .content {
   padding-top: 102px;
 }
+
+.mySlides {
+  display: none;
+}
+
+.w3-badge {
+  cursor: pointer;
+  height: 16px;
+  width: 13px;
+  padding:0;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
