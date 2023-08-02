@@ -20,8 +20,9 @@
       </div>
       <div class="flex-child">
         <div class="media-links">
-          <a href="https://www.facebook.com/habitat.river/" style="margin-right: 10px;" target="_blank"><img src="Facebook_icon.svg.webp" alt="Habitat for Humanity MR Facebook homepage" style="width: 7%;"></a>
-          <a href="https://www.instagram.com" target="_blank"><img src="Instagram_icon.png.webp" alt="HFH Instagram" style="width: 7%"></a>
+          <a href="https://www.facebook.com/habitat.river/" target="_blank" class="fa fa-facebook"></a>
+          <a href="https://www.instagram.com" target="_blank" class="fa fa-instagram"></a>
+          <a href="https://www.youtube.com" target="_blank" class="fa fa-youtube"></a>
         </div>
       </div>
     </div>
@@ -90,7 +91,7 @@
           <a href="restore_faq.html">ReStore FAQ</a>
         </div>
       </div>
-      <div class="search-container">
+      <div class="search-container" id="mySearch">
         <form action="action_page.php">
           <input type="text" placeholder="Search.." name="search">
           <button type="submit"><i class="fa fa-search"></i></button>
@@ -99,19 +100,12 @@
       <a href="javascript:void(0);" class="icon" onclick="openMenu()">
         <i class="fa fa-bars"></i>
       </a>
+      <a href="javascript:void(0);" class="search-icon" onclick="openSearch()">
+        <i class="fa fa-search"></i>
+      </a>
     </div>
     </div>
-    <script>
-      function openMenu() {
-        var x = document.getElementById("mynavbar");
-        if (x.className === "navbar") {
-          x.className += " responsive";
-        } else {
-          x.className = "navbar"
-        }
-      }
 
-    </script>
     <main>
       <p>This will be the body of the content</p>
 
@@ -133,6 +127,30 @@
         </div>
       </div>
     </main>
+    <div class="myFooter">
+
+    </div>
+    <script>
+      function openMenu() {
+        var x = document.getElementById("mynavbar");
+        if (x.className === "navbar") {
+          x.className += " responsive";
+        } else {
+          x.className = "navbar"
+        }
+      }
+
+    </script>
+    <script>
+      function openSearch() {
+        var x = document.getElementById("mySearch");
+        if (x.className === "search-container") {
+          x.className += " responsive";
+        } else {
+          x.className = "search-container"
+        }
+      }
+    </script>
     <script>
       window.onscroll = function() {stickyHeader()};
       

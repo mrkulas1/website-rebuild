@@ -19,13 +19,17 @@
   display: none;
 }
 
+.navbar .search-icon {
+  display: none;
+}
+
 .navbar .search-container {
   float: right;
 }
 
 .navbar input[type=text] {
   padding: 6px;
-  margin-top: 8px;
+  margin-top: 11px;
   font-size: 16px;
   border: none;
 }
@@ -33,7 +37,7 @@
 .navbar .search-container button {
   float: right;
   padding: 6px 10px;
-  margin-top: 8px;
+  margin-top: 11px;
   margin-right: 16px;
   background: #fff;
   font-size: 16px;
@@ -89,7 +93,7 @@
   display: block;
 }
 
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 1063px) {
 
   .navbar a:not(:first-child),
   .dropdown .dropbtn {
@@ -101,16 +105,31 @@
     display: block;
   }
 
+  .navbar a.search-icon {
+    float: right;
+    display: block;
+  }
+
+  .search-container {
+    display: none;
+  }
+
 }
 
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 1063px) {
   .navbar.responsive {
     position: relative;
   }
 
-  .navbar.responsive .icon {
+  .navbar.responsive .icon{
     position: absolute;
     right: 0;
+    top: 0;
+  }
+
+  .navbar.responsive .search-icon {
+    position:absolute;
+    right: 46px;
     top: 0;
   }
 
@@ -132,6 +151,15 @@
     display: block;
     width: 100%;
     text-align: left;
+  }
+}
+
+@media screen  and (max-width: 1063px) {
+  .search-container.responsive {
+    position: absolute;
+    right: 86px;
+    top: 148px;
+    display: block;
   }
 }
 
@@ -196,4 +224,33 @@
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+.media-links .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
 }
