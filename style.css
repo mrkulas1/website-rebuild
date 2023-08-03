@@ -170,6 +170,7 @@
 
 .banner {
   display: flex;
+  padding: 8px;
 }
 
 .flex-child {
