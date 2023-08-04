@@ -93,7 +93,7 @@
   display: block;
 }
 
-@media screen and (max-width: 1063px) {
+@media screen and (max-width: 1076px) {
 
   .navbar a:not(:first-child),
   .dropdown .dropbtn {
@@ -116,7 +116,7 @@
 
 }
 
-@media screen and (max-width: 1063px) {
+@media screen and (max-width: 1076px) {
   .navbar.responsive {
     position: relative;
   }
@@ -154,7 +154,7 @@
   }
 }
 
-@media screen  and (max-width: 1063px) {
+@media screen  and (max-width: 1076px) {
   .search-container.responsive {
     position: absolute;
     right: 86px;
@@ -166,6 +166,7 @@
 .header {
   padding: 10px 0px;
   background: #fff;
+  background-color: white;
 }
 
 .banner {
@@ -200,6 +201,7 @@
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 1;
 }
 
 .sticky + .content {
