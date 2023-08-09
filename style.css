@@ -195,10 +195,12 @@
 
 .content {
   padding: 16px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .sticky {
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   z-index: 1;
