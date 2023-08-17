@@ -266,12 +266,24 @@
   font-size: 20px;
   color: #888B8D;
   padding: 10px 0px;
+  text-align: center;
+
 }
 
 .footer p {
   margin-left: 10%;
+  margin-right: 10%;
 }
 
 .hosting-text {
   font-size: 12px;
+}
+
+.footer-text {
+  font-size: 20px;
+}
+
+.footer-links {
+  font-size: 14px;
+  font-style: italic;
 }
