@@ -287,3 +287,8 @@
   font-size: 14px;
   font-style: italic;
 }
+
+.footer img {
+  margin-right: 9px;
+  margin-left: 9px;
+}
