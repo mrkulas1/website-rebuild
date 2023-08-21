@@ -30,7 +30,7 @@
       </div>
       <div class="dropdown">
         <button class="dropbtn">
-          <a href="contact.html">Contact Us</a>
+          <a href="contact.php">Contact Us</a>
         </button>
       </div>
       <div class="dropdown">

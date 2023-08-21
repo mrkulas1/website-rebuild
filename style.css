@@ -1,9 +1,15 @@
 /* Allowable colors: #888B8D, #fff, #00AFD7, #C4D600, #000*/
 
+.body {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #00AFD7;
-
+  /* Do new comments show up*/
 }
 
 .navbar a {
@@ -267,6 +273,7 @@
   color: #888B8D;
   padding: 10px 0px;
   text-align: center;
+  margin-top: auto;
 
 }
 
