@@ -1,7 +1,7 @@
 <div class="header sticky" id="myHeader">
     <div class="banner" id="myBanner">
       <div class="flex-child">
-          <a href="index.html">
+          <a href="index.php">
             <img src="New Logo.JPG" alt="Habitat for Humanity Menominee River Logo" style="width:50%;">
           </a>
       </div>
@@ -16,16 +16,16 @@
     <div class="navbar" id="mynavbar">
       <div class="dropdown">
         <button class="dropbtn">
-          <a href="about.html">About Us</a>
+          <a href="about.php">About Us</a>
         </button>
         <div class="dropdown-content">
-          <a href="where_we_build.html">Where We Build</a>
-          <a href="current_builds.html">Current Builds</a>
-          <a href="house_photos.html">House Photos</a>
-          <a href="corporate_sponsors.html">Corporate Sponsors</a>
-          <a href="newsletter_signup.html">Newsletter Sign Up</a>
-          <a href="newsletter.html">Newsletters</a>
-          <a href="press_release.html">Press Releases</a>
+          <a href="where_we_build.php">Where We Build</a>
+          <a href="current_builds.php">Current Builds</a>
+          <a href="house_photos.php">House Photos</a>
+          <a href="corporate_sponsors.php">Corporate Sponsors</a>
+          <a href="newsletter_signup.php">Newsletter Sign Up</a>
+          <a href="newsletter.php">Newsletters</a>
+          <a href="press_release.php">Press Releases</a>
         </div>
       </div>
       <div class="dropdown">
@@ -35,47 +35,47 @@
       </div>
       <div class="dropdown">
         <button class="dropbtn">
-          <a href="our_services.html">What We Do</a>
+          <a href="our_services.php">What We Do</a>
         </button>
         <div class="dropdown-content">
-          <a href="home_ownership.html">Home Ownership</a>
-          <a href="repair_program.html">Owner Occupied Repair Loans</a>
+          <a href="home_ownership.php">Home Ownership</a>
+          <a href="repair_program.php">Owner Occupied Repair Loans</a>
         </div>
       </div>
       <div class="dropdown">
         <button class="dropbtn">
-          <a href="get_involved.html">Get Involved</a>
+          <a href="get_involved.php">Get Involved</a>
         </button>
         <div class="dropdown-content">
-          <a href="core_crew.html">Core Crew</a>
-          <a href="events.html">Events</a>
-          <a href="committees.html">Committees</a>
-          <a href="group_builds.html">Group Builds</a>
-          <a href="youth_programs.html">Youth Programs</a>
+          <a href="core_crew.php">Core Crew</a>
+          <a href="events.php">Events</a>
+          <a href="committees.php">Committees</a>
+          <a href="group_builds.php">Group Builds</a>
+          <a href="youth_programs.php">Youth Programs</a>
         </div>
       </div>
       <div class="dropdown">
         <button class="dropbtn">
-          <a href="donate.html">Donate</a>
+          <a href="donate.php">Donate</a>
         </button>
         <div class="dropdown-content">
-          <a href="sponsor.html">Sponsor An Event</a>
-          <a href="other_donations.html">Other Ways to Donate</a>
-          <a href="donate_faq.html">Donation FAQ</a>
-          <a href="thrivent.html">Thrivent</a>
-          <a href="cars.html">Cars for Homes</a>
+          <a href="sponsor.php">Sponsor An Event</a>
+          <a href="other_donations.php">Other Ways to Donate</a>
+          <a href="donate_faq.php">Donation FAQ</a>
+          <a href="thrivent.php">Thrivent</a>
+          <a href="cars.php">Cars for Homes</a>
         </div>
       </div>
       <div class="dropdown">
         <button class="dropbtn">
-          <a href="restore.html">Our ReStore</a>
+          <a href="restore.php">Our ReStore</a>
         </button>
         <div class="dropdown-content">
-          <a href="hours.html">Hours and Location</a>
-          <a href="shop.html">Shop</a>
-          <a href="donate_goods.html">Donate</a>
-          <a href="volunteer.html">Volunteer</a>
-          <a href="restore_faq.html">ReStore FAQ</a>
+          <a href="hours.php">Hours and Location</a>
+          <a href="shop.php">Shop</a>
+          <a href="donate_goods.php">Donate</a>
+          <a href="volunteer.php">Volunteer</a>
+          <a href="restore_faq.php">ReStore FAQ</a>
         </div>
       </div>
       <div class="search-container" id="mySearch">
