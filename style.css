@@ -292,53 +292,7 @@
   margin-left: 9px;
 }
 
-/*.board-grid-container {
-  display: grid;
-  grid-template-areas: 
-    'r1c1 r1c2 r1c3 r1c4'
-    'r2c1 r2c2 r2c3';
-  gap: 10px;
-  padding: 10px;
-}
-
-.board-grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px;
-}
-
-.member1 {
-  grid-area: r1c1;
-}
-
-.member2 {
-  grid-area: r1c2;
-}
-
-.member3 {
-  grid-area: r1c3;
-}
-
-.member4 {
-  grid-area: r1c4;
-}
-
-.member5 {
-  grid-area: r2c1;
-}
-
-.member6 {
-  grid-area: r2c2;
-}
-
-.member7 {
-  grid-area: r2c3;
-}*/
-
-
-
-.item1 { grid-area: header; }
+/*.item1 { grid-area: header; }
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
 .item4 { grid-area: right; }
@@ -361,19 +315,23 @@
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
-}
+}*/
 
 .r1 { grid-area: first; }
 .r2 { grid-area: second; }
 .r3 { grid-area: third; }
+.r4 { grid-area: but1; }
+.r5 { grid-area: but2; }
+.r6 { grid-area: but3; }
 
 
 .restore-grid-container {
   display: grid;
   grid-template-areas:
-    'first second third';
+    'first second third'
+    'but1 but2 but3';
   gap: 10px;
-  background-color: #2196F3;
+  background-color: white;
   padding: 10px;
 }
 
@@ -381,5 +339,42 @@
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
   padding: 20px 0;
-  font-size: 30px;
+  font-size: 15px;
+}
+
+#shop-button {
+  border: none;
+  background-color:#00AFD7;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 40px;
+  padding: 20px 50px;
+  font-size: 25px;
+  width: 50%;
+}
+#vol-button {
+  border: none;
+  background-color:#00AFD7;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 40px;
+  padding: 20px 50px;
+  font-size: 25px;
+  width: 50%;
+}
+#donate-button {
+  border: none;
+  background-color:#00AFD7;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 40px;
+  padding: 20px 50px;
+  font-size: 25px;
+  width: 50%;
 }
