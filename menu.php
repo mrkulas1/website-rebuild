@@ -73,7 +73,7 @@
         <div class="dropdown-content">
           <a href="hours.php">Hours and Location</a>
           <a href="shop.php">Shop</a>
-          <a href="donate_goods.php">Donate</a>
+          <a href="donate_restore.php">Donate</a>
           <a href="volunteer.php">Volunteer</a>
           <a href="restore_faq.php">ReStore FAQ</a>
         </div>

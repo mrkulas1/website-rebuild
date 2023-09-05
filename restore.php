@@ -33,14 +33,18 @@
         </a>
       </div>
       <div class="r5">
-        <button id="vol-button" type="button">
-          <span>Volunteer</span>
-        </button>
+        <a href="volunteer.php" target="_self">
+          <button id="vol-button" type="button">
+            <span>Volunteer</span>
+          </button>
+        </a>
       </div>
       <div class="r6">
-        <button id="donate-button" type="button">
-          <span>Donate</span>
-        </button>
+        <a href="donate_restore.php" target="_self">
+          <button id="donate-button" type="button">
+            <span>Donate</span>
+          </button>
+        </a>
       </div>
     </div>
 </main>
