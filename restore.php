@@ -47,6 +47,20 @@
         </a>
       </div>
     </div>
+
+    <div id="location-container">
+      <div id="location-text">
+        Kingsford ReStore<br>
+        113 S Milwaukee Ave<br>
+        Kingsford, MI 49802<br>
+        (906) 774-2867
+      </div>
+      <div id="location-map">
+        <a href="https://www.google.com/maps/place/113+S+Milwaukee+Ave,+Kingsford,+MI+49802/@45.8082748,-88.066751,16z/data=!4m6!3m5!1s0x4d524c797106313f:0x5ce291963c1aec31!8m2!3d45.8077091!4d-88.0672824!16s%2Fg%2F11g9m2_pvp?entry=ttu" target="_blank">
+          <img src="restore_images/kingsford-restore-map.png">
+        </a>
+      </div>
+    </div>
 </main>
 
 <?php include 'footer.php';?>

@@ -71,7 +71,6 @@
           <a href="restore.php">Our ReStore</a>
         </button>
         <div class="dropdown-content">
-          <a href="hours.php">Hours and Location</a>
           <a href="shop.php">Shop</a>
           <a href="donate_restore.php">Donate</a>
           <a href="volunteer.php">Volunteer</a>
