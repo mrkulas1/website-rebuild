@@ -77,17 +77,17 @@
           <a href="restore_faq.php">ReStore FAQ</a>
         </div>
       </div>
-      <div class="search-container" id="mySearch">
+      <!--<div class="search-container" id="mySearch">
         <form action="action_page.php">
           <input type="text" placeholder="Search.." name="search">
           <button type="submit"><i class="fa fa-search"></i></button>
         </form>
-      </div>
+      </div>-->
       <a href="javascript:void(0);" class="icon" onclick="openMenu()">
         <i class="fa fa-bars"></i>
       </a>
-      <a href="javascript:void(0);" class="search-icon" onclick="openSearch()">
+      <!--<a href="javascript:void(0);" class="search-icon" onclick="openSearch()">
         <i class="fa fa-search"></i>
-      </a>
+      </a>-->
     </div>
   </div>
