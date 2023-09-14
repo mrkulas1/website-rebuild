@@ -156,9 +156,9 @@
 
 @media screen  and (max-width: 1076px) {
   .search-container.responsive {
-    position: absolute;
-    right: 86px;
-    top: 148px;
+    position: relative;
+    /*right: 86px;
+    top: 148px;*/
     display: block;
   }
 }
@@ -352,7 +352,7 @@
   border-radius: 40px;
   padding: 20px 50px;
   font-size: 25px;
-  width: 50%;
+  width: auto;
 }
 #vol-button {
   border: none;
@@ -364,7 +364,8 @@
   border-radius: 40px;
   padding: 20px 50px;
   font-size: 25px;
-  width: 50%;
+  width: auto;
+  margin:auto;
 }
 #donate-button {
   border: none;
@@ -376,13 +377,13 @@
   border-radius: 40px;
   padding: 20px 50px;
   font-size: 25px;
-  width: 50%;
+  width: auto;
+  margin: auto;
 }
 
 #location-container {
   display: flex;
   padding: 75px 20px;
-  
 }
 
 #location-text {
@@ -398,4 +399,16 @@
   margin: auto;
   text-align: left;
   margin-left: 40px;
+  margin-right: 40px;
+}
+
+.corporate-sponsor-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.corporate-sponsor {
+  flex: 1 1 0px;
+  text-align: center;
 }

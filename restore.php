@@ -1,6 +1,6 @@
 <?php include 'header.php';?>
 <?php include 'menu.php';?>
-
+<script type="text/javascript" src="openMenu.js"></script>
 <main class="content">
     <h1 style="text-align: center;">ReStore</h1>
     <p>
@@ -42,7 +42,7 @@
       <div class="r6">
         <a href="donate_restore.php" target="_self">
           <button id="donate-button" type="button">
-            <span>Donate</span>
+            Donate
           </button>
         </a>
       </div>
@@ -57,7 +57,7 @@
       </div>
       <div id="location-map">
         <a href="https://www.google.com/maps/place/113+S+Milwaukee+Ave,+Kingsford,+MI+49802/@45.8082748,-88.066751,16z/data=!4m6!3m5!1s0x4d524c797106313f:0x5ce291963c1aec31!8m2!3d45.8077091!4d-88.0672824!16s%2Fg%2F11g9m2_pvp?entry=ttu" target="_blank">
-          <img src="restore_images/kingsford-restore-map.png">
+          <img src="restore_images/kingsford-restore-map.png" style="height: 100%;">
         </a>
       </div>
     </div>

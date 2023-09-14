@@ -7,5 +7,5 @@
       the site.
     </p>
     <p class="hosting-text">Habitat for Humanity Menominee River &#x2022 113 S Milwaukee Ave, Kingsford, MI 49802
-      &#x2022 Webhosting by <a href="http://uplogon.com/" target="_blank">UPLogOn</p>
+      &#x2022 (906) 779-5377 &#x2022 Webhosting by <a href="http://uplogon.com/" target="_blank">UPLogOn</p>
 </div>
