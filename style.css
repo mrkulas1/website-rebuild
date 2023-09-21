@@ -3,7 +3,6 @@
 .navbar {
   overflow: hidden;
   background-color: #00AFD7;
-  /* Do new comments show up*/
 }
 
 .navbar a {
@@ -406,9 +405,22 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-bottom: 3em;
 }
 
 .corporate-sponsor {
   flex: 1 1 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-header {
   text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 3em;
+}
+#about-page p {
+  font-size: 1.5em;
 }
