@@ -424,3 +424,81 @@
 #about-page p {
   font-size: 1.5em;
 }
+
+.flex-parent {
+  display: flex;
+  width: 100%;
+}
+
+.flex-child-element {
+  flex: 1;
+  margin: 10px;
+}
+
+.flex-child-element img {
+  width: 100%;
+}
+
+.flex-child-element h3 {
+  text-align: center;
+}
+
+.flex-child-element:first-child {
+  margin-right: 20px;
+}
+
+.get-involved {
+  text-align: center;
+}
+
+.senior-button {
+  background-color:#00AFD7;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 1.2 5em;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 10%/50%;
+  width: auto;
+  margin: auto;
+  padding: 1em;
+}
+
+.vol-links-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+}
+
+.vol-links-table td {
+  border: 1px solid #000;
+  text-align: left;
+  padding: .5em;
+}
+
+.vol-links-table tr:nth-child(even) {
+  background-color: #888B8D;
+}
+
+.newsletter-archive {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em;
+}
+
+.newsletter-archive td {
+  border: 3px solid #000;
+  text-align: left;
+  padding: .5em;
+}
+
+.newsletter-archive th {
+  border: 3px solid #000;
+  text-align: center;
+  padding: .5em;
+}
+
+.newsletter-archive tr:nth-child(even) {
+  background-color: #888B8D;
+}
