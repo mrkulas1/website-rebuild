@@ -348,9 +348,9 @@
   color: white;
   display: inline-block;
   cursor: pointer;
-  border-radius: 40px;
+  border-radius: 25%/50%;
   padding: 20px 50px;
-  font-size: 25px;
+  font-size: 1.5em;
   width: auto;
 }
 #vol-button {
@@ -360,9 +360,9 @@
   color: white;
   display: inline-block;
   cursor: pointer;
-  border-radius: 40px;
+  border-radius: 20%/50%;
   padding: 20px 50px;
-  font-size: 25px;
+  font-size: 1.5em;
   width: auto;
   margin:auto;
 }
@@ -373,9 +373,9 @@
   color: white;
   display: inline-block;
   cursor: pointer;
-  border-radius: 40px;
+  border-radius: 25%/50%;
   padding: 20px 50px;
-  font-size: 25px;
+  font-size: 1.5em;
   width: auto;
   margin: auto;
 }
@@ -390,7 +390,7 @@
   margin: auto;
   text-align: right;
   margin-right: 40px;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 #location-map {
@@ -501,4 +501,13 @@
 
 .newsletter-archive tr:nth-child(even) {
   background-color: #888B8D;
+}
+
+.shop-flex-container {
+  display: flex;
+  width: 100%;
+}
+
+.shop-flex-object {
+  flex: 1;
 }
