@@ -511,3 +511,13 @@
 .shop-flex-object {
   flex: 1;
 }
+
+.re-don-flex-con {
+  display: flex;
+  width: 100%;
+}
+
+.re-don-flex-obj {
+  flex: 1;
+  text-align: center;
+}
