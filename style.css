@@ -535,3 +535,19 @@
   border: 1px black solid;
   margin: 0 .5em;
 }
+
+.com1 { grid-area: first; }
+.com2 { grid-area: second; }
+.com3 { grid-area: third; }
+.com4 { grid-area: fourth; }
+
+
+.committee-grid-container {
+  display: grid;
+  grid-template-areas:
+    'first second'
+    'third fourth';
+  gap: 10px;
+  background-color: white;
+  padding: 10px;
+}
