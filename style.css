@@ -536,13 +536,13 @@
   margin: 0 .5em;
 }
 
-.com1 { grid-area: first; }
-.com2 { grid-area: second; }
-.com3 { grid-area: third; }
-.com4 { grid-area: fourth; }
+.grid1 { grid-area: first; }
+.grid2 { grid-area: second; }
+.grid3 { grid-area: third; }
+.grid4 { grid-area: fourth; }
 
 
-.committee-grid-container {
+.grid-container {
   display: grid;
   grid-template-areas:
     'first second'
@@ -550,4 +550,19 @@
   gap: 10px;
   background-color: white;
   padding: 10px;
+}
+
+.group-build-flex-con {
+  display: flex;
+  width: 100%;
+}
+
+.group-build-flex-obj {
+  flex: 1;
+  text-align: center;
+  margin: 0 .5em;
+}
+
+.group-build-flex-obj img {
+  width: 100%;
 }
