@@ -580,3 +580,31 @@
   margin: auto;
   padding: 1em;
 }
+
+.photo-grid {
+  width: 100%;
+}
+
+.grid-element {
+  display: inline-block;
+  width: 32%;
+  margin-bottom: 2em;
+}
+
+.grid-element img {
+  width:100%;
+}
+
+.map-container {
+  margin-bottom: 4em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.map-container img {
+  width: 85%;
+  border-style: solid;
+  border-color: #000;
+}
