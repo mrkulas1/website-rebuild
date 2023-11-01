@@ -12,17 +12,17 @@
                 <tr>
                     <td>2021</td>
                     <td>Fall</td>
-                    <td>Download</td>
+                    <td><a href="newsletters/HFH News Fall 2021.pdf">Download</a></td>
                 </tr>
                 <tr>
                     <td>2021</td>
                     <td>February</td>
-                    <td>Download</td>
+                    <td><a href="newsletters/HFH News Feb 2021.pdf">Download</a></td>
                 </tr>
                 <tr>
                     <td>2020</td>
                     <td>August</td>
-                    <td>Download</td>
+                    <td><a href="newsletters/2020 August.pdf">Download</a></td>
                 </tr>
                 <tr>
                     <td>2020</td>
