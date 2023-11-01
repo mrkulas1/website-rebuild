@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php include 'header1.php';?>
+<title>About Us</title>
+<?php include 'header2.php';?>
 <?php include 'menu.php';?>
 
 <main>

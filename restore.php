@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php include 'header1.php';?>
+<title>ReStore</title>
+<?php include 'header2.php';?>
 <?php include 'menu.php';?>
 <script type="text/javascript" src="openMenu.js"></script>
 <main class="content">

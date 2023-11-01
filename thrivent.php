@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php include 'header1.php';?>
+<title>Thrivent Action Teams</title>
+<?php include 'header2.php';?>
 <?php include 'menu.php';?>
 
 <main class="content">
