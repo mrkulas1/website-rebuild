@@ -30,8 +30,8 @@
         <p>A HFHMR mortgage is about $450-$500 per month. An applying family must be able to show that they can afford
             this payment. In addition, family income may not exceed these maximum income guidelines (60% AMI).
         </p>
-        <div>
-            <table>
+        <div class="income-table">
+            <table class="income-reqs">
                 <tr>
                     <th><strong>Family Size</strong></th>
                     <th><strong>Maximum Annual Family Income for Dickinson County</strong></th>

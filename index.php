@@ -1,14 +1,14 @@
 <?php include 'header.php';?>
-    <?php include 'menu.php';?>
-    <main>
-      <div class="content">
-      <p>This will be the body of the content</p>
+<?php include 'menu.php';?>
+    <main class="content">
+      <div>
+      <h1>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h1>
 
       <div class="w3-content w3-display-container">
-        <img class="mySlides fade" src="slides/img_snowtops.jpg" style="width:100%">
-        <img class="mySlides fade" src="slides/img_lights.jpg" style="width:100%">
-        <img class="mySlides fade" src="slides/img_mountains.jpg" style="width:100%">
-        <img class="mySlides fade" src="slides/img_forest.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/Hastings Group 2023.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">
+        <!--<img class="mySlides fade" src="slides/img_forest.jpg" style="width:100%">-->
 
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095</button>
@@ -17,42 +17,31 @@
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
-          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>-->
 
         </div>
       </div>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fermentum at dui et dignissim. Quisque gravida dui et urna venenatis imperdiet. Pellentesque mattis mauris ex, nec bibendum ligula pulvinar a. Proin dictum ipsum eget sem rhoncus, vel tempor nunc eleifend. Duis vitae magna auctor, gravida felis at, efficitur mi. Integer quis sapien turpis. Maecenas feugiat, massa ac pulvinar tristique, justo ante iaculis ante, et porta tortor erat vel tortor. Proin rhoncus auctor neque sed maximus. Nunc vulputate bibendum risus. Duis at metus odio. Nullam vehicula molestie felis, at rutrum neque interdum a. Vestibulum malesuada nisl nec vehicula commodo. Donec ut tempor tellus. Fusce efficitur a ipsum at convallis. Sed eleifend felis mauris, eu maximus mi pharetra vel.
-
-        Sed dolor nisi, lacinia et congue eget, porta id augue. Donec sit amet sollicitudin libero. Nullam a augue at magna volutpat faucibus in nec dolor. Vestibulum maximus congue sem, in consectetur odio scelerisque ut. Nullam consequat, libero ut maximus commodo, quam purus facilisis elit, et blandit sapien magna ut odio. Fusce vehicula, enim ut dignissim consectetur, sem ligula iaculis arcu, ut vulputate lectus eros ut sem. In fermentum dui et justo ultricies, id aliquam ipsum pulvinar. Morbi faucibus ullamcorper nisi, at gravida arcu placerat a. Donec lobortis sed mi ultricies consectetur. Donec congue justo tempus orci feugiat, sed efficitur nisl fringilla. Etiam neque tortor, aliquam at arcu eget, fermentum vehicula mi. Vivamus lacinia quam sed erat fringilla hendrerit. Phasellus ex magna, posuere eu sem ac, pellentesque dictum turpis. Etiam mattis posuere tempus. Nunc imperdiet, lectus ut fringilla malesuada, massa eros iaculis diam, vel efficitur leo nisl ac sapien.
-        
-        Integer ut leo et lectus commodo mattis. Praesent et arcu pulvinar, tempus risus ut, mattis nisl. Pellentesque vestibulum fringilla congue. Maecenas augue augue, rhoncus ut tincidunt vitae, aliquet vitae lacus. Vestibulum nec malesuada turpis, vel pretium sem. Integer ornare, quam vitae bibendum molestie, dui ex vehicula arcu, sit amet congue turpis metus ut diam. Donec pretium nec nunc sed porttitor. Aenean commodo odio eget odio laoreet, quis viverra lacus efficitur. Fusce a vulputate enim, non tristique ex. Vivamus sed lacus at justo finibus luctus sed at dui. In hac habitasse platea dictumst. Phasellus sodales a quam at efficitur. Maecenas consectetur orci vel egestas volutpat. Aliquam ultricies laoreet nisi, id pretium felis scelerisque ut.
-        
-        Mauris sed efficitur turpis. Donec in faucibus arcu. Nulla rhoncus libero vel pellentesque elementum. Vivamus euismod, mi nec auctor vulputate, ex leo ullamcorper lorem, eu faucibus sapien orci non mauris. Sed ut enim sodales nunc mattis dignissim. Ut hendrerit lorem sit amet auctor sodales. Aenean imperdiet mollis ornare. Aliquam felis ex, eleifend vitae gravida vitae, finibus at ante. Suspendisse lobortis posuere rhoncus. Donec nisl mi, elementum eget ex nec, molestie fringilla arcu. Pellentesque scelerisque aliquam turpis ut eleifend. In eu lectus eget ipsum sagittis tincidunt. Morbi interdum, enim nec fermentum viverra, urna ipsum ornare est, at tempor mauris augue sed est. Vivamus aliquam, eros ac varius sagittis, tellus enim rutrum lacus, congue tincidunt diam ligula sed odio. Sed lobortis ligula ut metus pellentesque pretium. Vivamus ac consectetur lorem.
-        
-        Duis id est luctus, feugiat libero ac, lobortis eros. Duis semper sagittis est vel ultrices. In hac habitasse platea dictumst. Duis eget tellus nec justo tristique ultricies. Ut massa diam, sodales quis porta et, placerat et purus. Aliquam velit turpis, consequat sed lacus et, auctor vestibulum erat. Nulla auctor quam non nisl elementum, ut scelerisque massa placerat. Suspendisse bibendum porta nisi, accumsan pulvinar massa viverra a. Donec sollicitudin rhoncus suscipit.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fermentum at dui et dignissim. Quisque gravida dui et urna venenatis imperdiet. Pellentesque mattis mauris ex, nec bibendum ligula pulvinar a. Proin dictum ipsum eget sem rhoncus, vel tempor nunc eleifend. Duis vitae magna auctor, gravida felis at, efficitur mi. Integer quis sapien turpis. Maecenas feugiat, massa ac pulvinar tristique, justo ante iaculis ante, et porta tortor erat vel tortor. Proin rhoncus auctor neque sed maximus. Nunc vulputate bibendum risus. Duis at metus odio. Nullam vehicula molestie felis, at rutrum neque interdum a. Vestibulum malesuada nisl nec vehicula commodo. Donec ut tempor tellus. Fusce efficitur a ipsum at convallis. Sed eleifend felis mauris, eu maximus mi pharetra vel.
-
-          Sed dolor nisi, lacinia et congue eget, porta id augue. Donec sit amet sollicitudin libero. Nullam a augue at magna volutpat faucibus in nec dolor. Vestibulum maximus congue sem, in consectetur odio scelerisque ut. Nullam consequat, libero ut maximus commodo, quam purus facilisis elit, et blandit sapien magna ut odio. Fusce vehicula, enim ut dignissim consectetur, sem ligula iaculis arcu, ut vulputate lectus eros ut sem. In fermentum dui et justo ultricies, id aliquam ipsum pulvinar. Morbi faucibus ullamcorper nisi, at gravida arcu placerat a. Donec lobortis sed mi ultricies consectetur. Donec congue justo tempus orci feugiat, sed efficitur nisl fringilla. Etiam neque tortor, aliquam at arcu eget, fermentum vehicula mi. Vivamus lacinia quam sed erat fringilla hendrerit. Phasellus ex magna, posuere eu sem ac, pellentesque dictum turpis. Etiam mattis posuere tempus. Nunc imperdiet, lectus ut fringilla malesuada, massa eros iaculis diam, vel efficitur leo nisl ac sapien.
-          
-          Integer ut leo et lectus commodo mattis. Praesent et arcu pulvinar, tempus risus ut, mattis nisl. Pellentesque vestibulum fringilla congue. Maecenas augue augue, rhoncus ut tincidunt vitae, aliquet vitae lacus. Vestibulum nec malesuada turpis, vel pretium sem. Integer ornare, quam vitae bibendum molestie, dui ex vehicula arcu, sit amet congue turpis metus ut diam. Donec pretium nec nunc sed porttitor. Aenean commodo odio eget odio laoreet, quis viverra lacus efficitur. Fusce a vulputate enim, non tristique ex. Vivamus sed lacus at justo finibus luctus sed at dui. In hac habitasse platea dictumst. Phasellus sodales a quam at efficitur. Maecenas consectetur orci vel egestas volutpat. Aliquam ultricies laoreet nisi, id pretium felis scelerisque ut.
-          
-          Mauris sed efficitur turpis. Donec in faucibus arcu. Nulla rhoncus libero vel pellentesque elementum. Vivamus euismod, mi nec auctor vulputate, ex leo ullamcorper lorem, eu faucibus sapien orci non mauris. Sed ut enim sodales nunc mattis dignissim. Ut hendrerit lorem sit amet auctor sodales. Aenean imperdiet mollis ornare. Aliquam felis ex, eleifend vitae gravida vitae, finibus at ante. Suspendisse lobortis posuere rhoncus. Donec nisl mi, elementum eget ex nec, molestie fringilla arcu. Pellentesque scelerisque aliquam turpis ut eleifend. In eu lectus eget ipsum sagittis tincidunt. Morbi interdum, enim nec fermentum viverra, urna ipsum ornare est, at tempor mauris augue sed est. Vivamus aliquam, eros ac varius sagittis, tellus enim rutrum lacus, congue tincidunt diam ligula sed odio. Sed lobortis ligula ut metus pellentesque pretium. Vivamus ac consectetur lorem.
-          
-          Duis id est luctus, feugiat libero ac, lobortis eros. Duis semper sagittis est vel ultrices. In hac habitasse platea dictumst. Duis eget tellus nec justo tristique ultricies. Ut massa diam, sodales quis porta et, placerat et purus. Aliquam velit turpis, consequat sed lacus et, auctor vestibulum erat. Nulla auctor quam non nisl elementum, ut scelerisque massa placerat. Suspendisse bibendum porta nisi, accumsan pulvinar massa viverra a. Donec sollicitudin rhoncus suscipit.</p>  
+      </div>
+      <div>
+        <h2>Community Partnerships:<br>Building a Better Community Together</h2>
+        <p>The Dickinson Area Community Foundation helped us to purchase a new tool trailer for our construction
+          site. The trailer was wrapped in summer 2022, celebrating our partnership.
+        </p>
+        <p>Several organizations built with Habitat in 2022, below are volunteers from BOSS Snowplow (left) and 
+          Maranatha Assembly of God Church (right), two of the many groups who volunteered their time and talent
+          in 2022.
+        </p>
+        <div class="flex-parent">
+          <div class="flex-child-element">
+            <img src="index_images/BOSS Snowplow.jpg" alt="BOSS Snowplow">
           </div>
-        </main>
+          <div class="flex-child-element">
+            <img src="index_images/Maranatha Aug 2022.jpg" alt="Maranatha Aug 2022">
+          </div>
+        </div>
+      </div>
+    </main>
     <?php include 'footer.php';?> 
-    <script>
-      function openMenu() {
-        var x = document.getElementById("mynavbar");
-        if (x.className === "navbar") {
-          x.className += " responsive";
-        } else {
-          x.className = "navbar"
-        }
-      }
-
-    </script>
     <script>
       function openSearch() {
         var x = document.getElementById("mySearch");

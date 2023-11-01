@@ -1,9 +1,25 @@
 <?php include 'header.php';?>
 <?php include 'menu.php';?>
 
-<main>
-  <div class="content">
-    <h1 style="text-align: center;">Meet Our Board</h1>
+<main class="content">
+  <div>
+    <h1>Meet Our Board</h1>
+    <p>Carla Anderson</p>
+    <p>Glenn Costie</p>
+    <p>Jon Coyne</p>
+    <p>Nancy Finch</p>
+    <p>Tom Mackey</p>
+    <p>Dale Polzin</p>
+    <p>Sandy White</p>
+  </div>
+  <div>
+    <h1>Our Crew</h1>
+    <p><strong>Executive Director</strong> &mdash; Nancy Pellegrini &mdash; <a href="mailto:director@habitatmr.com">director@habitatmr.com</a></p>
+    <p><strong>Construction Manager</strong> &mdash; Danny Hemminger &mdash; <a href="mailto:coordinator@habitatmr.com">coordinator@habitatmr.com</a></p>
+    <p><strong>Volunteer/Fund Development</strong> &mdash; Kathy Kulas &mdash; <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a></p>
+    <p><strong>ReStore Manager</strong> &mdash; Crystal VanHese &mdash; <a href="mailto:restore@habitatmr.com">restore@habitatmr.com</a></p>
+  </div>
+
     <!--<div class="board-grid-container">
       <div class="member1">Member 1</div>
       <div class="member2">Member 2</div>
@@ -11,7 +27,7 @@
       <div class="member4">Member 4</div>
       <div class="member5">Member 5</div>
       <div class="member6">Member 6</div>
-      <div class="member7">Member 7</div>-->
+      <div class="member7">Member 7</div>
     <div class="board-grid-container">
       <div class="item1">
         <p>Glenn A. Costie is currently serving as our Board President. Glenn 
@@ -30,13 +46,13 @@
       <div class="item5">Footer</div>
       <div class="item6">Legs</div>
       <div class="item7">Feet</div>
-    </div>
+    </div>-->
 
 
     <!--</div>-->
 
 
-  </div>
 </main>
 
 <?php include 'footer.php';?>
+<?php include 'closing.php';?>

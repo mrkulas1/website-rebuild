@@ -432,7 +432,7 @@
 
 .flex-child-element {
   flex: 1;
-  margin: 10px;
+  margin: 1em;
 }
 
 .flex-child-element img {
@@ -572,7 +572,7 @@
   border: none;
   color: white;
   text-align: center;
-  font-size: 1.2 5em;
+  font-size: 1.25em;
   display: inline-block;
   cursor: pointer;
   border-radius: 10%/50%;
@@ -607,4 +607,33 @@
   width: 85%;
   border-style: solid;
   border-color: #000;
+}
+
+.income-reqs {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.income-table table, th, td {
+  border: 1px solid black;
+}
+
+#donate-button {
+  background-color: #00AFD7;
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  cursor: pointer;
+  box-shadow: 2px 2px 3px #999;
+  width: auto;
+  margin: auto;
+  font-size: 1.25em;
+  border-radius: 30%/50%;
+}
+
+#donate-form {
+  text-align: center;
 }

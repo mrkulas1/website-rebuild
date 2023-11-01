@@ -17,6 +17,7 @@
                 back to your community and helping our repair program to reach even more families. Click below to 
                 learn more about how you can sponsor.
             </p>
+            <a href="sponsor.php">Learn more...</a>
         </div>
         <div class="grid2">
             <h3>Give Online</h3>
@@ -24,18 +25,28 @@
                 constructing a wheel chair ramp, or repairing a roof. You will change lives and improve our 
                 community.
             </p>
+            <form id="donate-form" action="https://www.paypal.com/cgi-ibn/webscr" method="post" target="_blank">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="HMVUHMS2RVLJL">
+                <button id="donate-button" type="submit">Donate</button>
+            </form>
+
         </div>
         <div class="grid3">
             <h3>Cars for Homes</h3>
             <p>We accept old vehicles as donations, as they can be used to create or repair a bathroom, a basement, 
                 or a roof.
             </p>
+            <a href="cars.php">Learn more...</a>
+
         </div>
         <div class="grid4">
             <h3>Many More!</h3>
             <p>We accept cards, cash, checks, and so much more. Click the button below to learn more about the 
                 different ways you can donate.
             </p>
+            <a href="other_donations.php">Learn more...</a>
+
         </div>
     </div>
 </main>

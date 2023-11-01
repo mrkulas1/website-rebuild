@@ -15,5 +15,6 @@
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     </style>
+  <script src="openMenu.js"></script>
 
   <body>
