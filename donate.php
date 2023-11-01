@@ -28,7 +28,7 @@
             <form id="donate-form" action="https://www.paypal.com/cgi-ibn/webscr" method="post" target="_blank">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="HMVUHMS2RVLJL">
-                <button id="donate-button" type="submit">Donate</button>
+                <button id="donation-button" type="submit">Donate</button>
             </form>
 
         </div>

@@ -268,7 +268,7 @@
   text-align: center;
 }
 
-.footer p {
+.footer .footer-content {
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -620,7 +620,7 @@
   border: 1px solid black;
 }
 
-#donate-button {
+#donation-button {
   background-color: #00AFD7;
   border: none;
   color: white;
@@ -636,4 +636,9 @@
 
 #donate-form {
   text-align: center;
+}
+
+#mc_embed_shell {
+  margin-left: 28%;
+  padding: 1.5em;
 }
