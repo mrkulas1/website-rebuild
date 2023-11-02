@@ -639,6 +639,9 @@
 }
 
 #mc_embed_shell {
-  margin-left: 28%;
-  padding: 1.5em;
+  margin:auto;
+}
+
+#mc_embed_signup {
+  margin: auto;
 }

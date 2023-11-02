@@ -4,8 +4,9 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
-      <h1>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h1>
+      <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h2>
 
+      <h1>Pictures of Norway house construction</h1>
       <div class="w3-content w3-display-container">
         <img class="mySlides fade" src="index_images/Hastings Group 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
@@ -29,6 +30,9 @@
         <p>The Dickinson Area Community Foundation helped us to purchase a new tool trailer for our construction
           site. The trailer was wrapped in summer 2022, celebrating our partnership.
         </p>
+        <div>
+          <img src="index_images/Tool trailer.jpg">
+        </div>
         <p>Several organizations built with Habitat in 2022, below are volunteers from BOSS Snowplow (left) and 
           Maranatha Assembly of God Church (right), two of the many groups who volunteered their time and talent
           in 2022.
