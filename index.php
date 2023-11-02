@@ -30,8 +30,8 @@
         <p>The Dickinson Area Community Foundation helped us to purchase a new tool trailer for our construction
           site. The trailer was wrapped in summer 2022, celebrating our partnership.
         </p>
-        <div>
-          <img src="index_images/Tool trailer.jpg">
+        <div style="text-align: center;">
+          <img src="index_images/Tool trailer.jpg" style="width: 75%;">
         </div>
         <p>Several organizations built with Habitat in 2022, below are volunteers from BOSS Snowplow (left) and 
           Maranatha Assembly of God Church (right), two of the many groups who volunteered their time and talent
