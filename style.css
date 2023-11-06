@@ -595,6 +595,10 @@
   width:100%;
 }
 
+.grid-element p {
+  text-align: center;
+}
+
 .map-container {
   margin-bottom: 4em;
   margin-left: auto;

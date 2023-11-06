@@ -43,7 +43,7 @@
         </p>
         <h3>Noncash Charitable Contributions</h3>
         <p>Applies to deduction claims totaling more than $500 for all contributed items. If a donor is claiming over 
-            $5,000 in contribution value, there is a section labeled "Donee Acknowledgement" in Section B, Part IV of 
+            $5,000 in contribution value, there is a section labeled "Donor Acknowledgement" in Section B, Part IV of 
             IRS Form 8283 that must be completed. The form and instruction are available on the IRS site and can be 
             accessed through the following link <a href="https://www.irs.gov/pub/irs-pdf/f8283.pdf" target="_blank">IRS Tax Form 8283</a>
             . A member of the management staff must verify that the donation receipts match the completed form adn fill
