@@ -13,7 +13,10 @@
         <h1 class="about-header">Our Mission Statement</h1>
         <p>Habitat for Humanity Menominee River works in partnership with God and people everywhere to serve families in need.
             We build and renovate houses while improving neighborhoods to help create communities where people are able to live
-            and grow to their full potential.</p> 
+            and grow to their full potential.</p>
+        <p>Veterans served for all of us, and we are proud to partner with veterans and their families and perform critical
+            home repairs and accessiblity renovations to ensure that they have a safe place to live.
+        </p>
         <h1 class="about-header">Our Story</h1>
         <p>Locally, the Menominee River affiliate has started its 51st house since its founding in 1994.  Our homes are built
             to Energy Star and Green Build standards, which results in lower utility bills for our families.  Three of our 
