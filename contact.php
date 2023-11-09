@@ -5,14 +5,31 @@
 
 <main class="content">
   <div>
-    <h1>Meet Our Board</h1>
-    <p><strong>Board President</strong> &mdash; Glenn Costie &mdash; <a href="mailto:boardpresident@habitatmr.com">boardpresident@habitatmr.com</a></p>
-    <p>Carla Anderson</p>
-    <p>Jon Coyne</p>
-    <p>Nancy Finch</p>
-    <p>Tom Mackey</p>
-    <p>Dale Polzin</p>
-    <p>Sandy White</p>
+    <h1>Habitat Information</h1>
+    <p>Location: 113 S Milwaukee Avenue, Kingsford MI 49802<br>
+        Office Phone: (906) 779-5377<br>
+        ReStore Phone: (906) 774-2867
+    </p>
+    <h3>Office Hours</h3>
+    <p>Monday - Friday, 8:00AM - 12:00PM</p>
+    <h3>ReStore Hours</h3>
+    <p>Tuesday - Friday, 10:00AM - 4:00PM<br>Saturday, 10:00AM - 2:00PM</p>
+  </div>
+  <div class="flex-parent">
+    <div class="flex-child-element">
+      <h1>Meet Our Board</h1>
+      <p><strong>Board President</strong> &mdash; Glenn Costie &mdash; <a href="mailto:boardpresident@habitatmr.com">boardpresident@habitatmr.com</a></p>
+      <p>Carla Anderson</p>
+      <p>Jon Coyne</p>
+      <p>Nancy Finch</p>
+      <p>Tom Mackey</p>
+      <p>Dale Polzin</p>
+      <p>Sandy White</p>
+    </div>
+    <div class="flex-child-element">
+      <img src="headshots/Board 3 good one Apr 2022.jpg">
+      <p>Pictured left to right: Sandy White, Tom Mackey, Carla Anderson, Jon Coyne, Nancy Finch, Glenn Costie, Dale Polzin</p>
+    </div>
   </div>
   <div>
     <h1>Our Crew</h1>

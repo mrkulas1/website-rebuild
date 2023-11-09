@@ -72,6 +72,12 @@
            </table>
         </div>
     </div>
+    <div>
+        <h2>Apply Today</h2>
+        <p><a href="forms/2018 Home Application.pdf" target="_blank">Click here</a> to download an application and apply 
+           for a home today!
+        </p>
+    </div>
 </main>
 
 <?php include 'footer.php';?>

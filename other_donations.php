@@ -42,7 +42,7 @@
     </div>
     <div>
         <h2>Still have questions? Check out our Frequently Asked Questions!</h2>
-        <button>FAQ</button>
+        <button id="donation-button"><a href="donate_faq.php">FAQ</a></button>
     </div>
 </main>
 
