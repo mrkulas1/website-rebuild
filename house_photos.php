@@ -204,11 +204,11 @@
             <img src="house_images/49 139 W Lincoln.jpg" loading="lazy">
             <p>139 W Lincoln St<br>Iron Mountain MI<br>Built 2020</p>
         </div>
-        <!--<div class="grid-element">
-            <img src="house_images/50" loading="lazy">
+        <div class="grid-element">
+            <img src="house_images/50 112 E Sagola.jpg" loading="lazy">
             <p>112 Sagola Ave<br>Kingsford MI<br>Built 2022</p>
         </div>
-        <div class="grid-element">
+        <!--<div class="grid-element">
             <img src="house_images/51" loading="lazy">
             <p>726 Stephenson St<br>Norway MI<br>Built 2023</p>
         </div>-->

@@ -12,7 +12,7 @@
     </div>
     <div class="flex-parent">
         <div class="flex-child-element involved-img-1">
-            <img src="get_involved_images/Hakes ramp (2).jpg">
+            <img src="get_involved_images/Hakes ramp.jpg">
             <h3>Working on a wheel chair ramp in Florence</h3>
         </div>
         <div class="flex-child-element involved-img-2">
