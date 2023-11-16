@@ -46,7 +46,7 @@
             This money cannot be used for the purchase of appliances or furniture, paying bills, carpet replacement
             and other non essential repairs.<br>
             <a href="forms/Owner Occupied Home Repair Application 2022.pdf">Click here</a> to download and print an application. For more information, download the brochure 
-            <a href=#>here</a> or 
+            <a href="forms/Owner Occupied Repair Feb 2020.pdf">here</a> or 
             contact our office at (906) 779-5377 or email at <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a>.
         </p>
     </div>
