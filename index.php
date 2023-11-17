@@ -3,10 +3,30 @@
 <?php include 'header2.php';?>
 <?php include 'menu.php';?>
     <main class="content">
+      <div class="holiday-container">
+        <div class="holiday-background">
+          <img src="index_images/holiday1.jpg">
+        </div>
+        <div class="holiday">
+          <h1>Holiday Hours</h1>
+          <h2>Closed 11/23 for Thanksgiving</h2>
+
+          <h2>December Closings</h2>
+          <ul class="centered-list">
+            <li>12/23</li>
+            <li>12/26</li>
+            <li>12/30</li>
+            <li>1/2/2024</li>
+          </ul>
+        </div>
+        <div class="holiday-background">
+          <img src="index_images/holiday2.jpg">
+        </div>
+      </div>
       <div>
       <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h2>
 
-      <h1>Pictures of Norway house construction</h1>
+      <h1>Norway house construction</h1>
       <div class="w3-content w3-display-container">
         <img class="mySlides fade" src="index_images/Hastings Group 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">

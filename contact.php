@@ -11,7 +11,7 @@
         ReStore Phone: (906) 774-2867
     </p>
     <h3>Office Hours</h3>
-    <p>Monday - Friday, 8:00AM - 12:00PM</p>
+    <p>Monday - Friday, 12:30PM - 4:00PM</p>
     <h3>ReStore Hours</h3>
     <p>Tuesday - Friday, 10:00AM - 4:00PM<br>Saturday, 10:00AM - 2:00PM</p>
   </div>

@@ -24,11 +24,11 @@
             ramps cost about $25 per linear foot.
         </p><br>
         <p>Porches, decks, siding, and window replacements are also exterior repair projects.</p><br>
-        <p><a href="forms/Owner Occupied Home Repair Application 2022.pdf">Click here</a> to download and print an application. For more information contact our office at (906) 779-5377
+        <p><a href="forms/Owner Occupied Home Repair Application 2022.pdf" target="_blank">Click here</a> to download and print an application. For more information contact our office at (906) 779-5377
             or email at <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a>.
         </p>
         <p>We now offer a separate application if you are in need of a wheelchair ramp. This application can be found 
-            <a href="forms/Owner Occupied Wheelchair Ramp Application 2022.pdf">here</a>.
+            <a href="forms/Owner Occupied Wheelchair Ramp Application 2022.pdf" target="_blank">here</a>.
         </p>
     </div>
     <div>
@@ -45,8 +45,8 @@
             </ul>
             This money cannot be used for the purchase of appliances or furniture, paying bills, carpet replacement
             and other non essential repairs.<br>
-            <a href="forms/Owner Occupied Home Repair Application 2022.pdf">Click here</a> to download and print an application. For more information, download the brochure 
-            <a href="forms/Owner Occupied Repair Feb 2020.pdf">here</a> or 
+            <a href="forms/Owner Occupied Home Repair Application 2022.pdf" target="_blank">Click here</a> to download and print an application. For more information, download the brochure 
+            <a href="forms/Owner Occupied Repair Feb 2020.pdf" target="_blank">here</a> or 
             contact our office at (906) 779-5377 or email at <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a>.
         </p>
     </div>
