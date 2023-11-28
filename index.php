@@ -9,8 +9,6 @@
         </div>
         <div class="holiday">
           <h1>Holiday Hours</h1>
-          <h2>Closed 11/23 for Thanksgiving</h2>
-
           <h2>December Closings</h2>
           <ul class="centered-list">
             <li>12/23</li>
@@ -50,7 +48,7 @@
         <p>The Dickinson Area Community Foundation helped us to purchase a new tool trailer for our construction
           site. The trailer was wrapped in summer 2022, celebrating our partnership.
         </p>
-        <div style="text-align: center;">
+        <div style="text-align: center;"> 
           <img src="index_images/Tool trailer.jpg" style="width: 75%;">
         </div>
         <p>Several organizations built with Habitat in 2022, below are volunteers from BOSS Snowplow (left) and 

@@ -198,6 +198,11 @@
   margin-right: 10%;
 }
 
+.content h1, h2, h3, p {
+  text-align: center;
+}
+
+
 .sticky {
   position: sticky;
   top: 0;
