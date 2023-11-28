@@ -5,7 +5,7 @@
     <main class="content">
       <div class="holiday-container">
         <div class="holiday-background">
-          <img src="index_images/holiday1.jpg">
+          <img src="index_images/christmas-trees.jpg">
         </div>
         <div class="holiday">
           <h1>Holiday Hours</h1>
@@ -18,7 +18,7 @@
           </ul>
         </div>
         <div class="holiday-background">
-          <img src="index_images/holiday2.jpg">
+          <img src="index_images/christmas-knick-knacks.jpg">
         </div>
       </div>
       <div>
