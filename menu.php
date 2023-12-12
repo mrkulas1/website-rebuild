@@ -9,7 +9,7 @@
         <div class="media-links">
           <a href="https://www.facebook.com/habitat.river/" target="_blank" class="fa fa-facebook"></a>
           <a href="https://www.instagram.com" target="_blank" class="fa fa-instagram"></a>
-          <a href="https://youtu.be/_WfOibpcP9Q?si=HKRu28VFiqlD2G_k" target="_blank" class="fa fa-youtube"></a>
+          <a href="https://www.youtube.com/playlist?list=PLo2mTiAs818lRdbxV4tJlAFdw7idyeSMA" target="_blank" class="fa fa-youtube"></a>
         </div>
       </div>
     </div>
