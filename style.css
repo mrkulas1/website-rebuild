@@ -541,10 +541,15 @@
   margin: 0 .5em;
 }
 
-.grid1 { grid-area: first; }
-.grid2 { grid-area: second; }
-.grid3 { grid-area: third; }
-.grid4 { grid-area: fourth; }
+.grid1 { 
+  grid-area: first; 
+  padding-bottom: 4em;
+  padding-top: 4em;
+  border: solid gray 2px;
+}
+.grid2 { grid-area: second; padding-bottom: 8em; padding-top: 4em;border: solid gray 2px;}
+.grid3 { grid-area: third; padding-bottom: 8em;padding-top: 4em;border: solid gray 2px;}
+.grid4 { grid-area: fourth; padding-bottom: 8em;padding-top: 4em;border: solid gray 2px;}
 
 
 .grid-container {
@@ -685,4 +690,26 @@
 
 .centered-list li {
   font-size: 1.5em;
+}
+
+.container {
+  text-align: center;
+}
+
+.floating-button {
+  position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+  cursor: pointer;
+}
+
+.float-donate {
+  margin-top: 9px;
 }

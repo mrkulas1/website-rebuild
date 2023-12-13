@@ -13,7 +13,8 @@
     </div>
     <div class="grid-container">
         
-        <div class="grid1">
+        <div class="grid1" style="text-align:center;">
+            <img src="donate_images/timberstone-golfer.jpg" style="width:60%;">
             <h3>Sponsor an Event</h3>
             <p>Sponsoring our golf outing is both a great way to have your business advertised, as well as giving
                 back to your community and helping our repair program to reach even more families. Click below to 
@@ -34,7 +35,8 @@
             </form>
 
         </div>
-        <div class="grid3">
+        <div class="grid3" style="text-align:center;">
+            <img src="donate_images/carsforhomes2.gif">
             <h3>Cars for Homes</h3>
             <p>We accept old vehicles as donations, as they can be used to create or repair a bathroom, a basement, 
                 or a roof.
@@ -42,7 +44,7 @@
             <a href="cars.php">Learn more...</a>
 
         </div>
-        <div class="grid4">
+        <div class="grid4" style="text-align:center;">
             <h3>Many More!</h3>
             <p>We accept cards, cash, checks, and so much more. Click the button below to learn more about the 
                 different ways you can donate.

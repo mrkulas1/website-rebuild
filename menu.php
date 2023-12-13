@@ -91,3 +91,10 @@
       </a>-->
     </div>
   </div>
+<form id="donate-form" action="https://www.paypal.com/cgi-ibn/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="HMVUHMS2RVLJL">
+  <button class="floating-button" type="submit">
+   <i class="fa fa-heart float-donate"></i>
+  </button>
+</form>
