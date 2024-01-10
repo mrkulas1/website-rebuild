@@ -11,7 +11,8 @@
         <img class="mySlides fade" src="index_images/Hastings Group 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">
-        <!--<img class="mySlides fade" src="slides/img_forest.jpg" style="width:100%">-->
+        <img class="mySlides fade" src="index_images/726 Core Crew and Family.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/Core Crew Christmas Cookies.jpg" style="width:100%">
 
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095</button>
@@ -20,7 +21,8 @@
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
-          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>-->
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
 
         </div>
       </div>
