@@ -7,7 +7,7 @@
     <div>
         <h1>Current Builds</h1>
         <img src="about_us_images/726 Front Partial Siding.jpg">
-        <p>Construction is finishing up at our newest house in Norway, Michigan.</p>
+        <p>Construction is well underway at our newest house site in Norway, Michigan.</p>
     </div>
 </main>
 
