@@ -4,7 +4,7 @@
 <?php include 'menu.php';?>
 
 <main class="content">
-    <div>
+    <div class="container">
         <h1>Current Builds</h1>
         <img src="about_us_images/726 Front Partial Siding.jpg">
         <p>Construction is well underway at our newest house site in Norway, Michigan.</p>
