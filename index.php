@@ -8,11 +8,11 @@
 
       <h1>Norway house construction</h1>
       <div class="w3-content w3-display-container">
+        <img class="mySlides fade" src="index_images/726 Core Crew and Family.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/Core Crew Christmas Cookies.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Hastings Group 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/726 Core Crew and Family.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/Core Crew Christmas Cookies.jpg" style="width:100%">
 
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095</button>
