@@ -18,7 +18,7 @@
         <p>A huge thank you to our golf committee, to all our sponsors for helping to make this event possible, and for
             all the participants for supporting our community and providing the fun.
         </p>
-        <p>Our 22nd annual "Raise the Roof" Golf Outing will be held on Friday blank, 2024, at TimberStone Golf Course.</p>
+        <p>Our 22nd annual "Raise the Roof" Golf Outing will be held on Friday May 31st, 2024, at TimberStone Golf Course.</p>
         <p>Contact <a href="mailto:hfh@habitatmr.com?subject=Golf%20Outing%20Question">hfh@habitatmr.com</a> for more
             information about this great event or to volunteer.</p> 
     </div>
