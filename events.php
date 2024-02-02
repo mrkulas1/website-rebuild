@@ -3,7 +3,7 @@
 <?php include 'header2.php';?>
 <?php include 'menu.php';?>
 <main class="content">
-    <div>
+    <div class="container">
         <h1>Volunteer for an Event</h1>
         <p>We have one main fundraising event each year, the "Raise the Roof" golf outing. We thank those who have 
             previously volunteered and are always looking for new volunteers.
@@ -19,6 +19,7 @@
             all the participants for supporting our community and providing the fun.
         </p>
         <p>Our 22nd annual "Raise the Roof" Golf Outing will be held on Friday May 31st, 2024, at TimberStone Golf Course.</p>
+        <button class="sponsor-button"><a href="forms/Registration Packet 2024.pdf">Registration Packet</a></button>
         <p>Contact <a href="mailto:hfh@habitatmr.com?subject=Golf%20Outing%20Question">hfh@habitatmr.com</a> for more
             information about this great event or to volunteer.</p> 
     </div>

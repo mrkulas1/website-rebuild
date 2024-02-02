@@ -5,6 +5,19 @@
     <main class="content">
       <div>
       <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h2>
+        <div class="container">
+          <img src="index_images/Golfer Putting Small.jpg">
+          <h1>22nd Annual "Raise the Roof" Golf Outing</h1>
+          <h2>May 31, 2024</h2>
+          <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
+            TimberStone Golf Course again on Friday May 31st. Each golfer will receive food and drink tickets
+            for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
+            green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more,
+            and to register for this great event. We can't wait to see you on the course!
+          </h3>
+          <button class="index-button"><a href="forms/Registration Packet 2024.pdf">Register</a></button>
+          <button class="index-button"><a href="events.php">Learn More</a></button>
+        </div>
 
       <h1>Norway house construction</h1>
       <div class="w3-content w3-display-container">

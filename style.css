@@ -161,7 +161,7 @@
     display: block;
   }
 }
-
+/*site-header*/
 .header {
   padding: 10px 0px;
   background: #fff;
@@ -694,6 +694,7 @@
 
 .container {
   text-align: center;
+  padding-bottom: 3em;
 }
 
 .floating-button {
@@ -712,4 +713,18 @@
 
 .float-donate {
   margin-top: 9px;
+}
+
+.index-button {
+  background-color:#00AFD7;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 1.25em;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 20%/50%;
+  width: auto;
+  margin: auto;
+  padding: 1em;
 }
