@@ -706,8 +706,9 @@
 	background-color:#0C9;
 	color:#FFF;
 	border-radius:50px;
+  border-color: #0C9;
 	text-align:center;
-	box-shadow: 2px 2px 3px #999;
+	/*box-shadow: 2px 2px 3px #999;*/
   cursor: pointer;
 }
 

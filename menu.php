@@ -1,4 +1,4 @@
-<div class="header sticky" id="myHeader">
+<div class="header sticky" id="myHeader"> <!--site-header-->
     <div class="banner" id="myBanner">
       <div class="flex-child">
           <a href="index.php">

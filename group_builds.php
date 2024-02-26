@@ -39,6 +39,18 @@
     <div>
         <h2>Previous Group Builds</h2>
         <!-- Needs to be completed -->
+        <p>Several organizations built with Habitat in 2022, below are volunteers from BOSS Snowplow (left) and 
+          Maranatha Assembly of God Church (right), two of the many groups who volunteered their time and talent
+          in 2022.
+        </p>
+        <div class="flex-parent">
+          <div class="flex-child-element">
+            <img src="index_images/BOSS Snowplow.jpg" alt="BOSS Snowplow">
+          </div>
+          <div class="flex-child-element">
+            <img src="index_images/Maranatha Aug 2022.jpg" alt="Maranatha Aug 2022">
+          </div>
+        </div>
     </div>
 </main>
 

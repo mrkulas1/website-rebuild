@@ -19,16 +19,17 @@
     <div class="flex-child-element">
       <h1>Meet Our Board</h1>
       <p><strong>Board President</strong> &mdash; Glenn Costie &mdash; <a href="mailto:boardpresident@habitatmr.com">boardpresident@habitatmr.com</a></p>
-      <p>Carla Anderson</p>
       <p>Jon Coyne</p>
       <p>Nancy Finch</p>
       <p>Tom Mackey</p>
       <p>Dale Polzin</p>
       <p>Sandy White</p>
+      <p>Aimee Allen</p>
+      <p>Carrie Something-Partello</p>
     </div>
     <div class="flex-child-element">
       <img src="headshots/Board 3 good one Apr 2022.jpg">
-      <p>Pictured left to right: Sandy White, Tom Mackey, Carla Anderson, Jon Coyne, Nancy Finch, Glenn Costie, Dale Polzin</p>
+      <p>Pictured left to right: Sandy White, Tom Mackey, Jon Coyne, Nancy Finch, Glenn Costie, Dale Polzin</p>
     </div>
   </div>
   <div>
