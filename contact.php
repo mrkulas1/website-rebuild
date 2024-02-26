@@ -25,7 +25,7 @@
       <p>Dale Polzin</p>
       <p>Sandy White</p>
       <p>Aimee Allen</p>
-      <p>Carrie Something-Partello</p>
+      <p>Carrie Toretta-Partello</p>
     </div>
     <div class="flex-child-element">
       <img src="headshots/Board 3 good one Apr 2022.jpg">
