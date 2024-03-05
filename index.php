@@ -6,7 +6,7 @@
       <div>
       <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h2>
         <div class="container">
-          <img src="index_images/Golfer Putting Small.jpg">
+          <img src="index_images/Golfer Putting Small.jpg" style="width:50%">
           <h1>22nd Annual "Raise the Roof" Golf Outing</h1>
           <h2>May 31, 2024</h2>
           <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
