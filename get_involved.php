@@ -34,27 +34,27 @@
         <table class="vol-links-table">
             <tr>
                 <td>Volunteering Information</td>
-                <td>Download</td>
+                <td><a href="brochures/Volunteering Information.pdf">Download</a></td>
             </tr>
             <tr>
                 <td>Youth Volunteering Information</td>
-                <td>Download</td>
+                <td><a href="brochures/Youth Volunteering Information.pdf">Download</a></td>
             </tr>
             <tr>
                 <td>Volunteer Questionnaire</td>
-                <td>Download</td>
+                <td><a href="brochures/Volunteering Questionnaire.pdf">Download</a></td>
             </tr>
             <tr>
                 <td>Youth Volunteer Questionnaire</td>
-                <td>Download</td>
+                <td><a href="brochures/Youth Volunteer Questionnaire.pdf">Download</a></td>
             </tr>
             <tr>
                 <td>Volunteer Waiver</td>
-                <td>Download</td>
+                <td><a href="brochures/Volunteer Waiver.pdf">Download</a></td>
             </tr>
             <tr>
                 <td>Youth Volunteer Waiver</td>
-                <td>Download</td>
+                <td><a href="brochures/Youth Volunteer Waiver.pdf">Download</a></td>
             </tr>
         </table>
     </div>

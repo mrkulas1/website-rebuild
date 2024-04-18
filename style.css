@@ -163,7 +163,7 @@
 }
 /*site-header*/
 .header {
-  padding: 10px 0px;
+  padding-top: 10px;
   background: #fff;
   background-color: white;
 }
@@ -543,20 +543,22 @@
 
 .grid1 { 
   grid-area: first; 
-  padding-bottom: 4em;
-  padding-top: 4em;
+  padding: 4em 1em;
   border: solid gray 2px;
 }
-.grid2 { grid-area: second; padding-bottom: 8em; padding-top: 4em;border: solid gray 2px;}
-.grid3 { grid-area: third; padding-bottom: 8em;padding-top: 4em;border: solid gray 2px;}
-.grid4 { grid-area: fourth; padding-bottom: 8em;padding-top: 4em;border: solid gray 2px;}
+.grid2 { grid-area: second; padding: 4em 1em;;border: solid gray 2px;}
+.grid3 { grid-area: third; padding: 4em 1em;;border: solid gray 2px;}
+.grid4 { grid-area: fourth; padding: 4em 1em;;border: solid gray 2px;}
+.grid5 { grid-area: fifth; padding: 4em 1em;;border: solid gray 2px;}
+.grid6 { grid-area: sixth; padding: 4em 1em;;border: solid gray 2px;}
 
 
 .grid-container {
   display: grid;
   grid-template-areas:
     'first second'
-    'third fourth';
+    'third fourth'
+    'fifth sixth';
   gap: 10px;
   background-color: white;
   padding: 10px;
