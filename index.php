@@ -15,6 +15,21 @@
             green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more,
             and to register for this great event. We can't wait to see you on the course!
           </h3>
+          
+          <div class="sponsor-ribbon">
+          <div><h2>Roof Truss Sponsors</h2></div>
+             <img src="index_images/AMS_Logo-resized.png">
+             <img src="index_images/fnbt-resized.png">
+             <img src="index_images/Trident-Logo-resized.png">
+             <img src="index_images/GFL_Logo.png">
+          </div>
+          
+          <div class="sponsor-ribbon">
+          <div><h3>Nail Sponsors</h3></div>
+            <img src="index_images/41-Lumber-resized.png">
+            <img src="index_images/precision technology logo.png" style="background-color: black">
+          </div>
+          <br>
           <button class="index-button"><a href="forms/Registration Packet 2024.pdf">Register</a></button>
           <button class="index-button"><a href="events.php">Learn More</a></button>
         </div>

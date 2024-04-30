@@ -731,3 +731,14 @@
   margin: auto;
   padding: 1em;
 }
+
+.sponsor-ribbon{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.sponsor-ribbon img{
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
