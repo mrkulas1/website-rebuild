@@ -12,8 +12,13 @@
           <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
             TimberStone Golf Course again on Friday May 31st. Each golfer will receive food and drink tickets
             for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
-            green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more,
-            and to register for this great event. We can't wait to see you on the course!
+            green fees, entry into a door prize raffle, and access to on-course games. </p>
+            <p>There will be a hole in one prize, sponsored by Edwards Automotive, good for $20,000 towards a 
+              new GM car.
+            </p>
+            
+            <p>Click below to learn more,
+            and to register for this great event. We can't wait to see you on the course!</p>
           </h3>
           
           <div class="sponsor-ribbon">
@@ -22,10 +27,15 @@
              <img src="index_images/fnbt-resized.png">
              <img src="index_images/Trident-Logo-resized.png">
              <img src="index_images/GFL_Logo.png">
+             <img src="index_images/Marshfield-resized.png">
           </div>
-          
           <div class="sponsor-ribbon">
-          <div><h3>Nail Sponsors</h3></div>
+          <div><h3>Floor Sponsors</h3></div>
+            <img src="index_images/blagec-bros.png">
+            <img src="index_images/logomj.png" style="background-color: black">
+          </div>
+          <div class="sponsor-ribbon">
+          <div><h3>Hole Sponsors</h3></div>
             <img src="index_images/41-Lumber-resized.png">
             <img src="index_images/precision technology logo.png" style="background-color: black">
           </div>
