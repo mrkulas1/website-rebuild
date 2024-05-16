@@ -33,7 +33,7 @@
                 on our most visible characteristic.
             </p>
         </div>
-        <div class="grid2">
+        <div class="grid3">
             <h2>Family Selection/Family Support Committee</h2>
             <p>Our primary mission is to offer eligible families an opportunity to buy a simple, decent home. 
                 This committee's responsibility is to find, screen, and support families that fit HFHMR's 
@@ -43,14 +43,14 @@
                 every family that's approved.
             </p>
         </div>
-        <div class="grid3">
+        <div class="grid4">
             <h2>Fundraising/Volunteer Committee</h2>
             <p>This is the "queen bee" committee. Everything HFHMR does starts and ends with fundraising. 
                 Everyone on our team gets involved with this committee in one way or another. Whether you help
                 with our grant writing team or help to run our golf outing fundraiser, there is a place for you.
             </p>
         </div>
-        <div class="grid4">
+        <div class="grid5">
             <h2>ReStore Committee</h2>
             <p>Our ReStore is unlike any other commercial business. We are a non-profit entity, but are tasked
                 with making a "profit." We walk a tight line between our two primary missions: 
@@ -59,10 +59,18 @@
                 <li>Provide affordable goods to our customers</li>
                 <li>Raise money for the affiliate</li>
             </ul>
+            <br>
             <p>Our ReStore manager is quick to complement the members of this committee with inventory control
                 ideas, budget oversight, pricing limits, store layout, and other facets of the organization.
                 To help with this committee, contact our ReStore manager, Crystal VanHese at 
                 <a href="mailto:restore@habitatmr.com">restore@habitatmr.com</a> or stop into the ReStore.
+            </p>
+        </div>
+        <div class="grid2">
+            <h2>Finance Committee</h2>
+            <p>Have an interest in how HFHMR runs our finances? Consider joining our finance committee. Our 
+                finance committee meets biweekly to discuss our financial state and determine the future 
+                for our home building and our repair program.
             </p>
         </div>
     </div>
