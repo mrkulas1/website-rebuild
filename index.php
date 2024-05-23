@@ -13,14 +13,20 @@
             TimberStone Golf Course again on Friday May 31st. Each golfer will receive food and drink tickets
             for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
             green fees, entry into a door prize raffle, and access to on-course games. </p>
+            <p>Check-in will be from 11:30 - 12:30.</p>
             <p>There will be a hole in one prize, sponsored by Edwards Automotive, good for $20,000 towards a 
               new GM car.
             </p>
             
             <p>Click below to learn more,
-            and to register for this great event. We can't wait to see you on the course!</p>
+            and to download our registration packet for this great event. We can't wait to see you on the course!</p>
           </h3>
           
+
+          <div class="sponsor-ribbon">
+          <div><h1>Title Sponsor</h1></div>
+              <img src="index_images/Zonta-Club.jpg">
+          </div>
           <div class="sponsor-ribbon">
           <div><h2>Roof Truss Sponsors</h2></div>
              <img src="index_images/AMS_Logo-resized.png">
@@ -28,6 +34,8 @@
              <img src="index_images/Trident-Logo-resized.png">
              <img src="index_images/GFL_Logo.png">
              <img src="index_images/Marshfield-resized.png">
+             <img src="index_images/Nicolet-Bank.png">
+             <img src="index_images/First-Bank.png">
           </div>
           <div class="sponsor-ribbon">
           <div><h3>Floor Sponsors</h3></div>
@@ -35,13 +43,23 @@
             <img src="index_images/logomj.png" style="background-color: black">
           </div>
           <div class="sponsor-ribbon">
+            <div><h3>Hammer Sponsors</h3></div>
+              <img src="index_images/ReStore.jpg">
+              <img src="index_images/Sandlot.png">
+              <!--<img src="index_images/Results-Broadcasting.png">-->
+          </div>
+          <div class="sponsor-ribbon">
           <div><h3>Hole Sponsors</h3></div>
             <img src="index_images/41-Lumber-resized.png">
             <img src="index_images/precision technology logo.png" style="background-color: black">
+            <!--<img src="index_images/Chris-Hanley-Agency.png">-->
+            <img src="index_images/Carrie-Toretta-Partello.png">
+            <img src="index_images/Superior-Title.png">
+            <img src="index_images/Mastercraft-Machine.jpg">
           </div>
           <br>
-          <button class="index-button"><a href="forms/Registration Packet 2024.pdf">Register</a></button>
-          <button class="index-button"><a href="events.php">Learn More</a></button>
+          <a class="index-button" href="forms/Registration Packet 2024.pdf" target="_blank">Registration Packet</a>
+          <a class="index-button" href="events.php">Learn More</a>
         </div>
 
       <h1>Norway house construction</h1>
