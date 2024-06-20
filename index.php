@@ -16,7 +16,7 @@
             projects. A huge thank you goes to all of our wonderful sponsors who help to make this event possible,
             and to all those who participated in the outing.  Without their support and the support of the 
             community, this event would not exist. <br>
-            Next year's event will be held May 29 at TimberStone Golf Course. See you on the course!
+            <p>Next year's event will be held May 29 at TimberStone Golf Course. See you on the course!</p>
           </h3>
           
 
