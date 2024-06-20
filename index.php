@@ -4,22 +4,19 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
-      <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM</h2><br>
+      <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM<br>
+          The ReStore will be closed July 4 - July 6    
+      </h2><br>
         <div class="container">
           <img src="index_images/Golfer Putting Small.jpg" style="width:50%">
           <h1>22nd Annual "Raise the Roof" Golf Outing</h1>
           <h2>May 31, 2024</h2>
-          <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
-            TimberStone Golf Course again on Friday May 31st. Each golfer will receive food and drink tickets
-            for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
-            green fees, entry into a door prize raffle, and access to on-course games. </p>
-            <p>Check-in will be from 11:30 - 12:30.</p>
-            <p>There will be a hole in one prize, sponsored by Edwards Automotive, good for $20,000 towards a 
-              new GM car.
-            </p>
-            
-            <p>Click below to learn more,
-            and to download our registration packet for this great event. We can't wait to see you on the course!</p>
+          <h3>This year was a great turnout from the community, and everyone involved helped to raise over $14,000
+            that will go towards funding our repair program to help families in need complete critical home repair
+            projects. A huge thank you goes to all of our wonderful sponsors who help to make this event possible,
+            and to all those who participated in the outing.  Without their support and the support of the 
+            community, this event would not exist. <br>
+            Next year's event will be held May 29 at TimberStone Golf Course. See you on the course!
           </h3>
           
 
@@ -58,8 +55,6 @@
             <img src="index_images/Mastercraft-Machine.jpg">
           </div>
           <br>
-          <a class="index-button" href="forms/Registration Packet 2024.pdf" target="_blank">Registration Packet</a>
-          <a class="index-button" href="events.php">Learn More</a>
         </div>
 
       <h1>Norway house construction</h1>
