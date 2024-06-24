@@ -743,3 +743,7 @@
   padding-right: 1em;
   padding-bottom: 1em;
 }
+
+.body-font {
+  font-size: 1.5em;
+}

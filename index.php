@@ -13,9 +13,9 @@
           <h2>May 31, 2024</h2>
           <h3>This year was a great turnout from the community, and everyone involved helped to raise over $14,000
             that will go towards funding our repair program to help families in need complete critical home repair
-            projects. A huge thank you goes to all of our wonderful sponsors who help to make this event possible,
-            and to all those who participated in the outing.  Without their support and the support of the 
-            community, this event would not exist. <br>
+            projects. A huge thank you goes to all of our wonderful sponsors and volunteers who help to make 
+            this event possible, and to all those who participated in the outing.  Without their support and 
+            the support of the community, this event would not exist. <br>
             <p>Next year's event will be held May 29 at TimberStone Golf Course. See you on the course!</p>
           </h3>
           
@@ -57,13 +57,13 @@
           <br>
         </div>
 
-      <h1>Norway house construction</h1>
+      <h1>Cancer Closet Re-siding Project</h1>
       <div class="w3-content w3-display-container">
-        <img class="mySlides fade" src="index_images/726 Core Crew and Family.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/Core Crew Christmas Cookies.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/Hastings Group 2023.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/cancer-closet-siding-1.jpg">
+        <img class="mySlides fade" src="index_images/cancer-closet-siding-2.jpg">
+        <img class="mySlides fade" src="index_images/cancer-closet-siding-3.jpg">
+        <!--<img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">-->
 
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095</button>
@@ -72,19 +72,25 @@
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
-          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
-          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
+          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>-->
 
         </div>
       </div>
+      <div class="container">
+        <p class="body-font">We recently partnered with the Dickinson County Cancer Unit Loan Closet to provide our expert 
+          volunteers to re-side the outside of their building. We are proud to partner with such an important
+          and impactful organization in our community.
+        </p>
       </div>
-      <div>
+      </div>
+      <div style="padding-top: 3em; padding-bottom: 3em;">
         <h2>Community Partnerships:<br>Building a Better Community Together</h2>
         <p>The Dickinson Area Community Foundation helped us to purchase a new tool trailer for our construction
           site. The trailer was wrapped in summer 2022, celebrating our partnership.
         </p>
         <div style="text-align: center;"> 
-          <img src="index_images/Tool trailer.jpg" style="width: 75%;">
+          <img src="index_images/Tool trailer.jpg" style="width: 50%;">
         </div>
       </div>
     </main>
