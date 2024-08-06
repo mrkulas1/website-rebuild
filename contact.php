@@ -19,7 +19,6 @@
     <div class="flex-child-element">
       <h1>Meet Our Board</h1>
       <p><strong>Board President</strong> &mdash; Glenn Costie &mdash; <a href="mailto:boardpresident@habitatmr.com">boardpresident@habitatmr.com</a></p>
-      <p>Jon Coyne</p>
       <p>Nancy Finch</p>
       <p>Tom Mackey</p>
       <p>Dale Polzin</p>
@@ -29,12 +28,12 @@
     </div>
     <div class="flex-child-element">
       <img src="headshots/Board 3 good one Apr 2022.jpg">
-      <p>Pictured left to right: Sandy White, Tom Mackey, Jon Coyne, Nancy Finch, Glenn Costie, Dale Polzin</p>
+      <p>Pictured left to right: Sandy White, Tom Mackey, Jon Coyne (formerly), Nancy Finch, Glenn Costie, Dale Polzin</p>
     </div>
   </div>
   <div>
     <h1>Our Crew</h1>
-    <p><strong>Executive Director</strong> &mdash; Nancy Pellegrini &mdash; <a href="mailto:director@habitatmr.com">director@habitatmr.com</a></p>
+    <p><strong>Interim Executive Director</strong> &mdash; Kathy Kulas &mdash; <a href="mailto:director@habitatmr.com">director@habitatmr.com</a></p>
     <p><strong>Construction Manager</strong> &mdash; Danny Hemminger</p>
     <p><strong>Volunteer/Fund Development</strong> &mdash; Kathy Kulas &mdash; <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a></p>
     <p><strong>ReStore Manager</strong> &mdash; Crystal VanHese &mdash; <a href="mailto:restore@habitatmr.com">restore@habitatmr.com</a></p>

@@ -4,9 +4,6 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
-      <h2>Until further notice, the office will be open Monday-Friday, 12:30PM-4:00PM<br>
-          <p>The ReStore will be closed July 4 - July 6</p>    
-      </h2><br>
         <div class="container">
           <img src="index_images/Golfer Putting Small.jpg" style="width:50%">
           <h1>22nd Annual "Raise the Roof" Golf Outing</h1>
