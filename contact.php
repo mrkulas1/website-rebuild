@@ -27,8 +27,8 @@
       <p>Carrie Toretta-Partello</p>
     </div>
     <div class="flex-child-element">
-      <img src="headshots/Board 3 good one Apr 2022.jpg">
-      <p>Pictured left to right: Sandy White, Tom Mackey, Jon Coyne (formerly), Nancy Finch, Glenn Costie, Dale Polzin</p>
+      <img src="headshots/Board Photo 2024.jpg">
+      <p>Pictured left to right: Aimee Allen, Dale Polzin, Carrie Toretta-Partello, Glenn Costie, Sandy White, Tom Mackey</p>
     </div>
   </div>
   <div>
