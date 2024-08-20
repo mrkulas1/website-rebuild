@@ -5,53 +5,7 @@
     <main class="content">
       <div>
         <div class="container">
-          <img src="index_images/Golfer Putting Small.jpg" style="width:50%">
-          <h1>22nd Annual "Raise the Roof" Golf Outing</h1>
-          <h2>May 31, 2024</h2>
-          <h3>This year was a great turnout from the community, and everyone involved helped to raise over $14,000
-            that will go towards funding our repair program to help families in need complete critical home repair
-            projects. A huge thank you goes to all of our wonderful sponsors and volunteers who help to make 
-            this event possible, and to all those who participated in the outing.  Without their support and 
-            the support of the community, this event would not exist. <br>
-            <p>Next year's event will be held May 29 at TimberStone Golf Course. See you on the course!</p>
-          </h3>
-          
-
-          <div class="sponsor-ribbon">
-          <div><h1>Title Sponsor</h1></div>
-              <img src="index_images/Zonta-Club.jpg">
-          </div>
-          <div class="sponsor-ribbon">
-          <div><h2>Roof Truss Sponsors</h2></div>
-             <img src="index_images/AMS_Logo-resized.png">
-             <img src="index_images/fnbt-resized.png">
-             <img src="index_images/Trident-Logo-resized.png">
-             <img src="index_images/GFL_Logo.png">
-             <img src="index_images/Marshfield-resized.png">
-             <img src="index_images/Nicolet-Bank.png">
-             <img src="index_images/First-Bank.png">
-          </div>
-          <div class="sponsor-ribbon">
-          <div><h3>Floor Sponsors</h3></div>
-            <img src="index_images/blagec-bros.png">
-            <img src="index_images/logomj.png" style="background-color: black">
-          </div>
-          <div class="sponsor-ribbon">
-            <div><h3>Hammer Sponsors</h3></div>
-              <img src="index_images/ReStore.jpg">
-              <img src="index_images/Sandlot.png">
-              <!--<img src="index_images/Results-Broadcasting.png">-->
-          </div>
-          <div class="sponsor-ribbon">
-          <div><h3>Hole Sponsors</h3></div>
-            <img src="index_images/41-Lumber-resized.png">
-            <img src="index_images/precision technology logo.png" style="background-color: black">
-            <!--<img src="index_images/Chris-Hanley-Agency.png">-->
-            <img src="index_images/Carrie-Toretta-Partello.png">
-            <img src="index_images/Superior-Title.png">
-            <img src="index_images/Mastercraft-Machine.jpg">
-          </div>
-          <br>
+          <img src="index_images/Habitat Celebration Invite (5).png" style="width:50%">
         </div>
 
       <h1>Cancer Closet Re-siding Project</h1>
