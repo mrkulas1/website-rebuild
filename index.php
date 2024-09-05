@@ -8,7 +8,7 @@
           <img src="index_images/Habitat Detour.png" style="width:50%">
           <p>Until further notice, there is a detour in effect on Thursday, September 5 that will
             allow vehicles to reach Habitat due to the intersection being closed for construction.
-            The detour takes J street east and follows South Milwaukee and goes through a parking lot
+            The detour takes J street east and turns right onto South Milwaukee through a parking lot
             before coming out by Eagle Tool. If you have any questions please call the office at 906-779-5377.
             Thank you for your patience!
           </p>
