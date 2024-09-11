@@ -4,17 +4,23 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
-        <div class="container">
-          <img src="index_images/Habitat Detour.png" style="width:50%">
-          <p>Until further notice, there is a detour in effect on Thursday, September 5 that will
+        <div class="flex-parent">
+          <div class="container flex-child-element">
+            <img src="index_images/Habitat Detour.png" style="width:50%">
+            <p>Until further notice, there is a detour in effect on Thursday, September 5 that will
             allow vehicles to reach Habitat due to the intersection being closed for construction.
             The detour takes J street east and turns right onto South Milwaukee through a parking lot
             before coming out by Eagle Tool. If you have any questions please call the office at 906-779-5377.
             Thank you for your patience!
-          </p>
-        </div>
-        <div class="container">
-          <img src="index_images/Habitat Celebration Invite (5).png" style="width:50%">
+            </p>
+          </div>
+          <div class="container flex-child-element">
+            <img src="index_images/Habitat Celebration Invite (5).png" style="width:50%">
+          </div>
+          <div class="container flex-child-element">
+            <h2>The ReStore will not be accepting donations from now until September 17th due to processing of
+              current donations.<br>Thank you for your understanding</h2>
+          </div>
         </div>
 
       <h1>Cancer Closet Re-siding Project</h1>
