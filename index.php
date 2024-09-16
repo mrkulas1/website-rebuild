@@ -14,13 +14,6 @@
             Thank you for your patience!
             </p>
           </div>
-          <div class="container flex-child-element">
-            <img src="index_images/Habitat Celebration Invite (5).png" style="width:50%">
-          </div>
-          <div class="container flex-child-element">
-            <h2>The ReStore will not be accepting donations from now until September 17th due to processing of
-              current donations.<br>Thank you for your understanding</h2>
-          </div>
         </div>
 
       <h1>Cancer Closet Re-siding Project</h1>
