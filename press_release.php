@@ -6,6 +6,10 @@
 <main class="content">
     <h1>Press Releases</h1>
     <div>
+    <h2>2021</h2>
+        <a href="https://www.uppermichiganssource.com/2024/09/10/habitat-humanity-build-homes-kingsford/" target="_blank">
+            Habitat For Humanity Builds Homes in Kingsford
+        </a><br>
         <h2>2021</h2>
         <a href="https://www.uppermichiganssource.com/2021/03/10/habitat-for-humanity-menominee-river-affiliate-celebrates-international-women-build-week/" target="_blank">
             International Women Build Week

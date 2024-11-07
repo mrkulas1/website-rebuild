@@ -33,9 +33,8 @@
   </div>
   <div>
     <h1>Our Crew</h1>
-    <p><strong>Interim Executive Director</strong> &mdash; Kathy Kulas &mdash; <a href="mailto:director@habitatmr.com">director@habitatmr.com</a></p>
+    <p><strong>Executive Director</strong> &mdash; Kathy Kulas &mdash; <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a></p>
     <p><strong>Construction Manager</strong> &mdash; Danny Hemminger</p>
-    <p><strong>Volunteer/Fund Development</strong> &mdash; Kathy Kulas &mdash; <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a></p>
     <p><strong>ReStore Manager</strong> &mdash; Crystal VanHese &mdash; <a href="mailto:restore@habitatmr.com">restore@habitatmr.com</a></p>
   </div>
 

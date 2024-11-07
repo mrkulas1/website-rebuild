@@ -29,7 +29,7 @@
     </div>
     <div>
         <h2>Ability to Pay</h2>
-        <p>A HFHMR mortgage is about $450-$500 per month. An applying family must be able to show that they can afford
+        <p>A HFHMR mortgage is about $1,000 per month. An applying family must be able to show that they can afford
             this payment. In addition, family income may not exceed these maximum income guidelines (60% AMI).
         </p>
         <div class="income-table">

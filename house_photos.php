@@ -208,10 +208,10 @@
             <img src="house_images/50 112 E Sagola Resized.jpg" loading="lazy">
             <p>112 Sagola Ave<br>Kingsford MI<br>Built 2022</p>
         </div>
-        <!--<div class="grid-element">
-            <img src="house_images/51" loading="lazy">
+        <div class="grid-element">
+            <img src="house_images/51 726 Stephenson.jpg" loading="lazy">
             <p>726 Stephenson St<br>Norway MI<br>Built 2023</p>
-        </div>-->
+        </div>
     </div>
 </main>
 
