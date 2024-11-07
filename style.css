@@ -747,3 +747,7 @@
 .body-font {
   font-size: 1.5em;
 }
+
+.press h2{
+  text-align: left;
+}

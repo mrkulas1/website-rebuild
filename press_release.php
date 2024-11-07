@@ -5,7 +5,7 @@
 
 <main class="content">
     <h1>Press Releases</h1>
-    <div>
+    <div class="press">
     <h2>2024</h2>
         <a href="https://www.uppermichiganssource.com/2024/09/10/habitat-humanity-build-homes-kingsford/" target="_blank">
             Habitat For Humanity Builds Homes in Kingsford
@@ -18,7 +18,7 @@
             HFHMR Celebration
         </a>
     </div>
-    <div>
+    <div class="press">
         <h2>2017</h2>
         <a href="press_releases/2017 NRI.pdf" target="_blank">
             Local Habitat for Humanity Affiliate featured by Habitat for Humanity International
@@ -30,7 +30,7 @@
             Golf Outing Sponsors
         </a>
     </div>
-    <div>
+    <div class="press">
         <h2>2016</h2>
         <a href="press_releases/2016 Sorny's Crane Service.pdf" target="_blank">
             Sorny's Crane Service
@@ -48,7 +48,7 @@
             Thrivent Donation
         </a>
     </div>
-    <div>
+    <div class="press">
         <h2>2015</h2>
         <a href="press_releases/2015 Thrivent builds repairs summary.pdf" target="_blank">
             Thrivent Summary
