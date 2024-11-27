@@ -751,3 +751,7 @@
 .press h2{
   text-align: left;
 }
+
+.box-border {
+  border: 2px solid black;
+}

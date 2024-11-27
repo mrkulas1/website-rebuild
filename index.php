@@ -4,6 +4,13 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
+        <div class="box-border">
+          <h2>Please do not park in the center of the dirt lot across from the ReStore</h2>
+          <p>CJ Graphics owns the lot and kindly allows ReStore patrons to park on the edges of their lot,
+            and have requested no parking in the center to allow for semi trucks to travel through.
+          </p>
+          <h3>Thank you for your understanding!</h3>
+        </div>
         
 
       <h1>Cancer Closet Re-siding Project</h1>
