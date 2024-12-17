@@ -11,13 +11,22 @@
           </p>
           <h3>Thank you for your understanding!</h3>
         </div>
+
+      <div class="container">
+        <h1>Interested in applying for a home?</h1>
+        <h3>January 22nd, 2025<br>
+        We will be holding a meeting at our office for families interested in learning more about our homeownership
+          program.<br>
+          113 S Milwaukee Avenue, Kingsford, MI 49802</h3>
+        
+      </div>
         
 
-      <h1>Cancer Closet Re-siding Project</h1>
+      <h1>Brownson Family House Dedication</h1>
       <div class="w3-content w3-display-container">
-        <img class="mySlides fade" src="index_images/cancer-closet-siding-1.jpg">
-        <img class="mySlides fade" src="index_images/cancer-closet-siding-2.jpg">
-        <img class="mySlides fade" src="index_images/cancer-closet-siding-3.jpg">
+        <img class="mySlides fade" src="index_images/Brownson Dedication 1 Resize.jpg">
+        <img class="mySlides fade" src="index_images/Brownson Dedication 2 Resize.jpg">
+        <img class="mySlides fade" src="index_images/Brownson Dedication 3 Resize.jpg">
         <!--<img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">-->
 
@@ -34,9 +43,9 @@
         </div>
       </div>
       <div class="container">
-        <p class="body-font">We recently partnered with the Dickinson County Cancer Unit Loan Closet to provide our expert 
-          volunteers to re-side the outside of their building. We are proud to partner with such an important
-          and impactful organization in our community.
+        <p class="body-font">We recently had a small dedication party for the Brownson family as they received a fully finished
+          home. This is our 51st completed house and we are thrilled to have partnered with the Brownsons on this project,
+          and we look forward to getting our next house completed.
         </p>
       </div>
       </div>
