@@ -15,7 +15,7 @@
       <div class="container">
         <h1>Interested in applying for a home?</h1>
         <h3>January 22nd, 2025<br>
-        We will be holding a meeting at our office for families interested in learning more about our homeownership
+        We will be holding a meeting at our office at 6:00 PM for families interested in learning more about our homeownership
           program.<br>
           113 S Milwaukee Avenue, Kingsford, MI 49802</h3>
         
