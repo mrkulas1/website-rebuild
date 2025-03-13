@@ -12,7 +12,7 @@
         <p>Our 23rd Annual Golf Outing will be held on Thursday, May 29<!--Date--> 2025 at TimberStone Golf Course. The
             golf outing is a 4 person scramble event, and the entrance fee includes cart rental, lunch, and prizes.    
         </p>
-        <button class="sponsor-button"><a href="forms/Registration Packet 2024.pdf">Sponsor Packet</a></button>
+        <button class="sponsor-button"><a href="forms/2025 Golf Outing Registration Packet.pdf">Sponsor Packet</a></button>
         <p>Contact <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a> with any questions or for more information 
             about the event or sponsoring the event.
         </p>

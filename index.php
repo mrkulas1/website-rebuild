@@ -25,6 +25,20 @@
         <h3>The ReStore will be opening at 9:00 AM instead of 10:00 AM starting on April 1!</h3>
       </div>
 
+      <div class="container">
+      <img src="index_images/Golfer Putting Small.jpg">
+           <h1>23rd Annual "Raise the Roof" Golf Outing</h1>
+           <h2>May 29, 2025 </h2>
+           <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
+             TimberStone Golf Course again on Thursday May 29th. Each golfer will receive food and drink tickets
+             for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
+             green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more,
+             and to register for this great event. We can't wait to see you on the course!
+           </h3>
+           <button class="index-button"><a href="forms/2025 Golf Outing Registration Packet.pdf">Register</a></button>
+           <button class="index-button"><a href="events.php">Learn More</a></button>
+      </div>
+
         
 
       <h1>Brownson Family House Dedication</h1>

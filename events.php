@@ -19,7 +19,7 @@
             all the participants for supporting our community and providing the fun.
         </p>
         <p>Our 23rd annual "Raise the Roof" Golf Outing will be held on Thursday, May 29th, 2025 at TimberStone Golf Course.</p>
-        <button class="sponsor-button"><a href="forms/Registration Packet 2024.pdf">Registration Packet</a></button>
+        <button class="sponsor-button"><a href="forms/2025 Golf Outing Registration Packet.pdf">Registration Packet</a></button>
         <p>Contact <a href="mailto:hfh@habitatmr.com?subject=Golf%20Outing%20Question">hfh@habitatmr.com</a> for more
             information about this great event or to volunteer.</p> 
     </div>
