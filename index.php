@@ -14,12 +14,17 @@
 
       <div class="container">
         <h1>Interested in applying for a home?</h1>
-        <h3>January 22nd, 2025<br>
+        <h3>April 23rd, 2025<br>
         We will be holding a meeting at our office at 6:00 PM for families interested in learning more about our homeownership
           program.<br>
           113 S Milwaukee Avenue, Kingsford, MI 49802</h3>
-        
       </div>
+
+      <div class="container">
+        <h2>Spring is Here!</h2>
+        <h3>The ReStore will be opening at 9:00 AM instead of 10:00 AM starting on April 1!</h3>
+      </div>
+
         
 
       <h1>Brownson Family House Dedication</h1>
