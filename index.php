@@ -38,6 +38,26 @@
            <button class="index-button"><a href="forms/2025 Golf Outing Registration Packet.pdf">Register</a></button>
            <button class="index-button"><a href="events.php">Learn More</a></button>
       </div>
+      <div class="sponsor-ribbon">
+           <div><h1>Title Sponsor</h1></div>
+               <img src="index_images/Zonta-Club.jpg">
+           </div>
+           <div class="sponsor-ribbon">
+           <div><h2>Roof Truss Sponsors</h2></div>
+              <img src="index_images/AMS_Logo-resized.png">
+              <img src="index_images/fnbt-resized.png">
+              <img src="index_images/Trident-Logo-resized.png">
+              <!--<img src="index_images/GFL_Logo.png">-->
+              <img src="index_images/Marshfield-resized.png">
+              <!--<img src="index_images/Nicolet-Bank.png">-->
+              <img src="index_images/First-Bank.png">
+           </div>
+           <!--<div class="sponsor-ribbon">
+           <div><h3>Floor Sponsors</h3></div>
+             <img src="index_images/blagec-bros.png">
+             <img src="index_images/logomj.png" style="background-color: black">
+           </div>-->
+             
 
         
 
