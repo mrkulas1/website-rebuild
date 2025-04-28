@@ -21,8 +21,8 @@
       </div>
 
       <div class="container">
-        <h2>Spring is Here!</h2>
-        <h3>The ReStore will be opening at 9:00 AM instead of 10:00 AM starting on April 1!</h3>
+        <h2>Updated Summer Hours</h2>
+        <h3>The ReStore will be opening at 9:00 AM instead of 10:00 AM</h3>
       </div>
 
       <div class="container">
@@ -51,12 +51,14 @@
               <img src="index_images/Marshfield-resized.png">
               <!--<img src="index_images/Nicolet-Bank.png">-->
               <img src="index_images/First-Bank.png">
+              <img src="index_images/Erickson.webp">
            </div>
-           <!--<div class="sponsor-ribbon">
+           <div class="sponsor-ribbon">
            <div><h3>Floor Sponsors</h3></div>
              <img src="index_images/blagec-bros.png">
              <img src="index_images/logomj.png" style="background-color: black">
-           </div>-->
+             <img src="index_images/bacco.webp">
+           </div>
              
 
         
