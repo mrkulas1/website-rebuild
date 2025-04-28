@@ -55,8 +55,8 @@
            </div>
            <div class="sponsor-ribbon">
            <div><h3>Floor Sponsors</h3></div>
-             <img src="index_images/blagec-bros.png">
-             <img src="index_images/logomj.png" style="background-color: black">
+             <!--<img src="index_images/blagec-bros.png">
+             <img src="index_images/logomj.png" style="background-color: black">-->
              <img src="index_images/bacco.webp">
            </div>
              
