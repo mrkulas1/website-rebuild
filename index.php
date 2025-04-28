@@ -51,7 +51,7 @@
               <img src="index_images/Marshfield-resized.png">
               <!--<img src="index_images/Nicolet-Bank.png">-->
               <img src="index_images/First-Bank.png">
-              <img src="index_images/Erickson.webp">
+              <img src="index_images/erickson.webp">
            </div>
            <div class="sponsor-ribbon">
            <div><h3>Floor Sponsors</h3></div>
