@@ -32,8 +32,9 @@
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
              TimberStone Golf Course again on Thursday May 29th. Each golfer will receive food and drink tickets
              for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
-             green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more,
-             and to register for this great event. We can't wait to see you on the course!
+             green fees, entry into a door prize raffle, and access to on-course games, including a Hole in One contest
+             sponsored by Edwards Automotive. Click below to learn more, and to register for this great event. We can't 
+             wait to see you on the course!
            </h3>
            <button class="index-button"><a href="forms/2025 Golf Outing Registration Packet.pdf">Register</a></button>
            <button class="index-button"><a href="events.php">Learn More</a></button>
@@ -47,7 +48,7 @@
               <img src="index_images/AMS_Logo-resized.png">
               <img src="index_images/fnbt-resized.png">
               <img src="index_images/Trident-Logo-resized.png">
-              <!--<img src="index_images/GFL_Logo.png">-->
+              <img src="index_images/dominos.png">
               <img src="index_images/Marshfield-resized.png">
               <!--<img src="index_images/Nicolet-Bank.png">-->
               <img src="index_images/First-Bank.png">
