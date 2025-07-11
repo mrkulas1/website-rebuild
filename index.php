@@ -14,7 +14,7 @@
 
       <div class="container">
         <h1>Interested in applying for a home?</h1>
-        <h3>April 23rd, 2025<br>
+        <h3>July 23rd, 2025<br>
         We will be holding a meeting at our office at 6:00 PM for families interested in learning more about our homeownership
           program.<br>
           113 S Milwaukee Avenue, Kingsford, MI 49802</h3>
@@ -36,40 +36,14 @@
              sponsored by Edwards Automotive. Click below to learn more, and to register for this great event. We can't 
              wait to see you on the course!
            </h3>
-           <button class="index-button"><a href="forms/2025 Golf Outing Registration Packet.pdf">Register</a></button>
-           <button class="index-button"><a href="events.php">Learn More</a></button>
       </div>
-      <div class="sponsor-ribbon">
-           <div><h1>Title Sponsor</h1></div>
-               <img src="index_images/Zonta-Club.jpg">
-           </div>
-           <div class="sponsor-ribbon">
-           <div><h2>Roof Truss Sponsors</h2></div>
-              <img src="index_images/AMS_Logo-resized.png">
-              <img src="index_images/fnbt-resized.png">
-              <img src="index_images/Trident-Logo-resized.png">
-              <img src="index_images/dominos.png">
-              <img src="index_images/Marshfield-resized.png">
-              <!--<img src="index_images/Nicolet-Bank.png">-->
-              <img src="index_images/First-Bank.png">
-              <img src="index_images/erickson.webp">
-           </div>
-           <div class="sponsor-ribbon">
-           <div><h3>Floor Sponsors</h3></div>
-             <!--<img src="index_images/blagec-bros.png">
-             <img src="index_images/logomj.png" style="background-color: black">-->
-             <img src="index_images/bacco.webp">
-           </div>
-             
-
-        
-
-      <h1>Brownson Family House Dedication</h1>
+            
+      <h1>Habitat Home #52 Groundbreaking</h1>
       <div class="w3-content w3-display-container">
-        <img class="mySlides fade" src="index_images/Brownson Dedication 1 Resize.jpg">
-        <img class="mySlides fade" src="index_images/Brownson Dedication 2 Resize.jpg">
-        <img class="mySlides fade" src="index_images/Brownson Dedication 3 Resize.jpg">
-        <!--<img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/House 52 Groundbreaking Resize.jpg">
+        <img class="mySlides fade" src="index_images/House 52 Walls Resize.jpg">
+        <!--<img class="mySlides fade" src="index_images/Brownson Dedication 3 Resize.jpg">
+        <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">-->
 
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094</button>
@@ -78,8 +52,8 @@
         <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
-          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>-->
 
         </div>
