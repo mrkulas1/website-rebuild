@@ -58,12 +58,7 @@
 
         </div>
       </div>
-      <div class="container">
-        <p class="body-font">We recently had a small dedication party for the Brownson family as they received a fully finished
-          home. This is our 51st completed house and we are thrilled to have partnered with the Brownsons on this project,
-          and we look forward to getting our next house completed.
-        </p>
-      </div>
+
       </div>
       <div style="padding-top: 3em; padding-bottom: 3em;">
         <h2>Community Partnerships:<br>Building a Better Community Together</h2>
