@@ -756,3 +756,8 @@
 .box-border {
   border: 2px solid black;
 }
+
+.container ul {
+  text-align: left;
+  display: inline-block;
+}

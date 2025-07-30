@@ -4,7 +4,7 @@
 <?php include 'menu.php';?>
 
 <main class="content">
-    <div>
+    <div class="container">
         <h1>Other Ways to Donate</h1>
         <p>There are many ways to donate to Habitat for Humanity Menominee River.  Look through the list below
             or contact the office at (906) 779-5377 or <a href="mailto:hfh@habitatmr.com">hfh@habitatmr.com</a> to 

@@ -4,7 +4,7 @@
 <?php include 'menu.php';?>
 
 <main class="content">
-    <div>
+    <div class="container">
         <h1>Youth Volunteers</h1>
         <h3>What is a youth group build?</h3>
         <p>A youth group build is any youth group that wants to volunteer together to make a difference in the community.

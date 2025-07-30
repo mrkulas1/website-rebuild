@@ -31,7 +31,7 @@
             <a href="forms/Owner Occupied Wheelchair Ramp Application 2025.pdf" target="_blank">here</a>.
         </p>
     </div>
-    <div>
+    <div class="container">
         <h2>Critical Home Repair Loan Program</h2>
         <p>HFHMR can offer loans to eligible families to make critical, but minor, repairs to their home. Critical 
             repairs include:

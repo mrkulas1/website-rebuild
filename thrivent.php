@@ -17,7 +17,7 @@
             at 1-800-847-4836 and say "Thrivent Choice" when prompted.
         </p>
     </div>
-    <div>
+    <div class="container">
         <h1>Thrivent Action Teams</h1>
         <p>Thrivent members have an opportunity to help build even greater impact by forming Action Teams to support 
             Habitat's work on site or off.

@@ -12,7 +12,7 @@
         </p>
         <p>HFHMR has the following requirements for home purchase qualifications.</p>
     </div>
-    <div>
+    <div class="container">
         <h2>Need</h2>
         <p>A potential HFHMR family must show they have a need for new housing. A family can show need in several ways.</p>
         <ul>
