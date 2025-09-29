@@ -13,6 +13,11 @@
                 </tr>
                 <tr>
                     <td>2025</td>
+                    <td>Fall</td>
+                    <td><a href="newsletters/Newsletter Fall 2025.pdf">Download</a></td>
+                </tr>
+                <tr>
+                    <td>2025</td>
                     <td>Summer</td>
                     <td><a href="newsletters/Newsletter Summer 2025.pdf">Download</a></td>
                 </tr>

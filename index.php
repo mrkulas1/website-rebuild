@@ -21,11 +21,11 @@
       </div>-->
 
       <div class="container">
-        <h2>Updated Summer Hours</h2>
-        <h3>The ReStore will be opening at 9:00 AM instead of 10:00 AM</h3>
+        <h2>Change to Winter Hours</h2>
+        <h3>The ReStore will be opening at 10:00 AM instead of 9:00 AM beginning October 1.</h3>
       </div>
 
-      <div class="container">
+      <!--<div class="container">
       <img src="index_images/Golfer Putting Small.jpg">
            <h1>23rd Annual "Raise the Roof" Golf Outing</h1>
            <h2>May 29, 2025 </h2>
@@ -36,15 +36,15 @@
              sponsored by Edwards Automotive. Click below to learn more, and to register for this great event. We can't 
              wait to see you on the course!
            </h3>
-      </div>
+      </div>-->
             
-      <h1>Habitat Home #52 Groundbreaking</h1>
+      <h1>Habitat Home #52 Construction</h1>
       <div class="w3-content w3-display-container">
         <img class="mySlides fade" src="index_images/House 52 Groundbreaking Resize.jpg">
         <img class="mySlides fade" src="index_images/House 52 Walls Resize.jpg">
-        <!--<img class="mySlides fade" src="index_images/Brownson Dedication 3 Resize.jpg">
-        <img class="mySlides fade" src="index_images/Hastings Windows 2023.jpg" style="width:100%">
-        <img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">-->
+        <img class="mySlides fade" src="index_images/House 52 Construction Resize.jpg">
+        <img class="mySlides fade" src="index_images/Habitat Trailer Resize.jpg" style="width:100%">
+        <!--<img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">-->
 
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095</button>
@@ -52,9 +52,9 @@
         <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
           <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
-          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>-->
+          <!--<span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>-->
 
         </div>
       </div>

@@ -30,6 +30,7 @@
         <button type="button" class="senior-button">Volunteering as a Senior</button>
     </div>
     <div class="get-involved" style="margin-top: 3em;">
+        <script type="text/javascript" src="https://form.jotform.com/jsform/251775653042054"></script>
         <h1>Helpful Links and Forms</h1>
         <table class="vol-links-table">
             <tr>
