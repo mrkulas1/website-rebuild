@@ -21,8 +21,10 @@
       </div>-->
 
       <div class="container">
-        <h2>Change to Winter Hours</h2>
-        <h3>The ReStore will be opening at 10:00 AM instead of 9:00 AM beginning October 1.</h3>
+        <h2>ReStore Donation Dock Hours</h2>
+        <h3>Tuesday: 10 AM &mdash; 3 PM</h3>
+        <h3>Thursday: 10 AM &mdash; 3 PM</h3>
+        <h3>Saturday: 10 AM &mdash; 1 PM</h3>
       </div>
 
       <!--<div class="container">
