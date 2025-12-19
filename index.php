@@ -4,6 +4,12 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
+        <div class="container">
+          <h2>ReStore Closure</h2>
+          <p>The ReStore will be closed from December 23rd until January 2nd.</p>
+          <p>The Habitat office will also be closed December 24th-26th, and December 31st to January 2nd.
+        </div>
+      
         <div class="box-border">
           <h2>Please do not park in the center of the dirt lot across from the ReStore</h2>
           <p>CJ Graphics owns the lot and kindly allows ReStore patrons to park on the edges of their lot,
@@ -42,9 +48,9 @@
             
       <h1>Habitat Home #52 Construction</h1>
       <div class="w3-content w3-display-container">
-        <img class="mySlides fade" src="index_images/House 52 Groundbreaking Resize.jpg">
-        <img class="mySlides fade" src="index_images/House 52 Walls Resize.jpg">
-        <img class="mySlides fade" src="index_images/House 52 Construction Resize.jpg">
+        <img class="mySlides fade" src="index_images/House 52 Groundbreaking Resize.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/House 52 Walls Resize.jpg" style="width:100%">
+        <img class="mySlides fade" src="index_images/House 52 Construction Resize.jpg" style="width:100%">
         <img class="mySlides fade" src="index_images/Habitat Trailer Resize.jpg" style="width:100%">
         <!--<img class="mySlides fade" src="index_images/Roof 2023 Hastings.jpg" style="width:100%">-->
 
