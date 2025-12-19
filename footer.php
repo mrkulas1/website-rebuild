@@ -2,7 +2,7 @@
   <div class="footer-content">
     <h2>Sign up for our newsletter!</h2>
       <div id="mc_embed_shell">
-        <div id="mc_embed_signup" style="background: black; border: 1px solid white;">
+        <div id="mc_embed_signup" style="background: black; border: 1px solid white; width: 100%;">
           <form action="https://habitatmr.us14.list-manage.com/subscribe/post?u=9c4f44ce7488eac3e1099e3c9&amp;id=eb2dfa2a25&amp;f_id=009dbfe0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
             <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
               <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
