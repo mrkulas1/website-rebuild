@@ -5,10 +5,10 @@
             <img src="New Logo.JPG" alt="Habitat for Humanity Menominee River Logo" style="width:50%;">
           </a>
       </div>
-      <div class="flex-child">
+      <div class="flex-child" style="flex-direction: row;">
         <div class="media-links">
           <a href="https://www.facebook.com/habitat.river/" target="_blank" class="fa fa-facebook"></a>
-          <a href="https://www.instagram.com" target="_blank" class="fa fa-instagram"></a>
+          <!--<a href="https://www.instagram.com" target="_blank" class="fa fa-instagram"></a>-->
           <a href="https://www.youtube.com/playlist?list=PLo2mTiAs818lRdbxV4tJlAFdw7idyeSMA" target="_blank" class="fa fa-youtube"></a>
         </div>
       </div>

@@ -4,19 +4,12 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
-        <div class="container">
-          <h2>ReStore Closure</h2>
-          <p>The ReStore will be closed from December 23rd until January 2nd.</p>
-          <p>The Habitat office will also be closed December 24th-26th, and December 31st to January 2nd.
+          <div class="w3-content w3-display-container">
+            <img src="index_images/Flip it Forward Poster.jpg" style="width:100%">
+            <img src="index_images/Flip it Forward Auction.jpg" style="width:100%">
         </div>
       
-        <div class="box-border">
-          <h2>Please do not park in the center of the dirt lot across from the ReStore</h2>
-          <p>CJ Graphics owns the lot and kindly allows ReStore patrons to park on the edges of their lot,
-            and have requested no parking in the center to allow for semi trucks to travel through.
-          </p>
-          <h3>Thank you for your understanding!</h3>
-        </div>
+        
 
       <!--<div class="container">
         <h1>Interested in applying for a home?</h1>
