@@ -8,7 +8,7 @@
             <img src="index_images/Flip it Forward Poster.jpg" style="width:100%">
             <img src="index_images/Flip it Forward Auction.jpg" style="width:100%">
         </div>
-        <div>
+        <div style="text-align: center;">>
           <a href=https://www.zeffy.com/en-US/ticketing/flip-it-forward-art-and-auction>Buy Tickets Here</a>       
         </div>
       
