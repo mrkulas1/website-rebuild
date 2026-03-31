@@ -20,7 +20,7 @@
         <h3>Saturday: 10 AM &mdash; 1 PM</h3>
       </div>
 
-      <div class="container" style="border: 1 px solid black; padding: 1em;">
+      <div class="container" style="border: 1px solid black; padding: 1em;">
       <img src="index_images/Golf Outing Poster-2.jpg">
         <br>
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
@@ -34,7 +34,7 @@
       </div>
       <br>
 
-      <div class="container" style="border: 1 px solid black; padding: 1em;">
+      <div class="container" style="border: 1px solid black; padding: 1em;">
         <img src="index_images/Credit Repair Flyer.jpg">
       </div>
             
