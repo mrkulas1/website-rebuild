@@ -20,8 +20,9 @@
         <h3>Saturday: 10 AM &mdash; 1 PM</h3>
       </div>
 
-      <div class="container">
+      <div class="container" style="border:thin">
       <img src="index_images/Golf Outing Poster-2.jpg">
+        <br>
            <h1>24th Annual "Raise the Roof" Golf Outing</h1>
            <h2>May 21, 2026 </h2>
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
@@ -31,8 +32,9 @@
              and to register for this great event. We can't wait to see you on the course!
            </h3>
       </div>
+      <br>
 
-      <div class="container">
+      <div class="container" style="border:thin">
         <img src="index_images/Credit Repair Flyer.jpg">
       </div>
             
