@@ -4,18 +4,6 @@
 <?php include 'menu.php';?>
     <main class="content">
       <div>
-        <div class="container">
-        <div class="index-button">
-          <a href=https://www.zeffy.com/en-US/ticketing/flip-it-forward-art-and-auction>Buy Tickets Here</a>       
-        </div>
-        </div>    
-        <div class="w3-content w3-display-container">
-          <img src="index_images/Flip it Forward Auction.jpg" style="width:100%">
-          <img src="index_images/Flip it Forward Poster.jpg" style="width:100%">
-        </div>
-        
-      
-        
 
       <!--<div class="container">
         <h1>Interested in applying for a home?</h1>
@@ -32,18 +20,21 @@
         <h3>Saturday: 10 AM &mdash; 1 PM</h3>
       </div>
 
-      <!--<div class="container">
-      <img src="index_images/Golfer Putting Small.jpg">
-           <h1>23rd Annual "Raise the Roof" Golf Outing</h1>
-           <h2>May 29, 2025 </h2>
+      <div class="container">
+      <img src="index_images/Golf Outing Poster-2.jpg">
+           <h1>24th Annual "Raise the Roof" Golf Outing</h1>
+           <h2>May 21, 2026 </h2>
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
-             TimberStone Golf Course again on Thursday May 29th. Each golfer will receive food and drink tickets
+             TimberStone Golf Course again on Thursday May 21st. Each golfer will receive food and drink tickets
              for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
-             green fees, entry into a door prize raffle, and access to on-course games, including a Hole in One contest
-             sponsored by Edwards Automotive. Click below to learn more, and to register for this great event. We can't 
-             wait to see you on the course!
+             green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more, 
+             and to register for this great event. We can't wait to see you on the course!
            </h3>
-      </div>-->
+      </div>
+
+      <div class="container">
+        <img src="index_images/Credit Repair Flyer.jpg">
+      </div>
             
       <h1>Habitat Home #52 Construction</h1>
       <div class="w3-content w3-display-container">

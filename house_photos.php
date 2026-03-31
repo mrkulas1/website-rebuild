@@ -14,7 +14,7 @@
         </div>-->
         <div class="grid-element">
             <img src="house_images/2 Balsam-Jenson Resized.jpg" loading="lazy">
-            <p>504 Maplewood Court<br>Kingsford MI<br>Built 1996</p>
+            <p>309 Balsam<br>Kingsford MI<br>Built 1996</p>
         </div>
         <!--<div class="grid-element">
             <img src="house_images/3 " loading="lazy">
