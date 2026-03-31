@@ -20,21 +20,21 @@
         <h3>Saturday: 10 AM &mdash; 1 PM</h3>
       </div>
 
-      <div class="container" style="border:thin">
+      <div class="container" style="border: 1 px solid black; padding: 1em;">
       <img src="index_images/Golf Outing Poster-2.jpg">
         <br>
-           <h1>24th Annual "Raise the Roof" Golf Outing</h1>
-           <h2>May 21, 2026 </h2>
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
              TimberStone Golf Course again on Thursday May 21st. Each golfer will receive food and drink tickets
              for the TimberStone bar, drinks cart, and grill.  The registration fee also covers cart and 
              green fees, entry into a door prize raffle, and access to on-course games. Click below to learn more, 
              and to register for this great event. We can't wait to see you on the course!
            </h3>
+           <br>
+            <a href="forms/Raise the Roof Sponsor Packet 2026.pdf" class="index_button">Learn More</a>
       </div>
       <br>
 
-      <div class="container" style="border:thin">
+      <div class="container" style="border: 1 px solid black; padding: 1em;">
         <img src="index_images/Credit Repair Flyer.jpg">
       </div>
             
