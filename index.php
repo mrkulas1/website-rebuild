@@ -30,7 +30,7 @@
              and to register for this great event. We can't wait to see you on the course!
            </h3>
            <br>
-            <a href="forms/Raise the Roof Sponsor Packet 2026.pdf" class="index_button">Learn More</a>
+            <a href="forms/Raise the Roof Sponsor Packet 2026.pdf" class="index-button">Learn More</a>
       </div>
       <br>
 
