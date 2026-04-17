@@ -32,6 +32,16 @@
            <br>
             <a href="forms/Raise the Roof Sponsor Packet 2026.pdf" class="index-button">Learn More</a>
       </div>
+      <div class="sponsor-ribbon">
+        <img src="index_images/AMS_Logo-resized.png">
+        <img src="index_images/fnbt-resized.png">
+        <img src="index_images/First-Bank.png">
+        <img src="index_images/Trident-Logo-resized.png">
+        <img src="index_images/EmbersLogo.png">
+      </div>
+      <!--<div class="sponsor-ribbon">
+        <img src="index_images/resultsbroadcasting.png">
+      </div><-->
       <br>
 
       <div class="container" style="border: 1px solid black; padding: 1em;">
