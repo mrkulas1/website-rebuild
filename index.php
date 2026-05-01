@@ -21,7 +21,7 @@
       </div>
 
       <div class="container" style="border: 1px solid black; padding: 1em;">
-      <img src="index_images/Golf Outing Poster-2.jpg" style="width=100%">
+      <img src="index_images/Golf Outing Poster-2.jpg" style="width:100%">
         <br>
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
              TimberStone Golf Course again on Thursday May 21st. Each golfer will receive food and drink tickets
