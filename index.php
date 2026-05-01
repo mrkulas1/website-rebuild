@@ -21,7 +21,7 @@
       </div>
 
       <div class="container" style="border: 1px solid black; padding: 1em;">
-      <img src="index_images/Golf Outing Poster-2.jpg">
+      <img src="index_images/Golf Outing Poster-2.jpg" style="width=100%">
         <br>
            <h3>Our biggest fundraiser of the year is fast approaching! The golf outing will be held at
              TimberStone Golf Course again on Thursday May 21st. Each golfer will receive food and drink tickets
@@ -33,21 +33,21 @@
             <a href="forms/Raise the Roof Sponsor Packet 2026.pdf" class="index-button">Learn More</a>
       
       <div class="sponsor-ribbon">
+        <h3>Roof Truss Sponsors</h3>
         <img src="index_images/AMS_Logo-resized.png">
         <img src="index_images/fnbt-resized.png">
         <img src="index_images/First-Bank.png">
         <img src="index_images/Trident-Logo-resized.png">
         <img src="index_images/EmbersLogo.png">
+        <img src="index_images/Nicolet-Bank.png">
       </div>
-      <!--<div class="sponsor-ribbon">
+      <div class="sponsor-ribbon">
+        <h3>Floor Sponsors</h3>
         <img src="index_images/resultsbroadcasting.png">
-      </div><-->
+        <img src="index_images/bacco.webp">
+      </div>
       </div>
       <br>
-
-      <div class="container" style="border: 1px solid black; padding: 1em;">
-        <img src="index_images/Credit Repair Flyer.jpg">
-      </div>
             
       <h1>Habitat Home #52 Construction</h1>
       <div class="w3-content w3-display-container">
